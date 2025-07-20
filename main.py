@@ -84,6 +84,38 @@ with st.sidebar.expander("🔧 Filters", expanded=True):
         (int(df["closing_rank"].min()), int(df["closing_rank"].max()))
     )
 
+
+# === Track filter change to reset pagination ===
+if 'last_college_input' not in st.session_state or st.session_state['last_college_input'] != college_input:
+    st.session_state["page_number_tab1"] = 1
+    st.session_state["rec_page_number"] = 1
+st.session_state['last_college_input'] = college_input
+
+if 'last_selected_category' not in st.session_state or st.session_state['last_selected_category'] != selected_category:
+    st.session_state["page_number_tab1"] = 1
+    st.session_state["rec_page_number"] = 1
+st.session_state['last_selected_category'] = selected_category
+
+if 'last_branch_keyword_input' not in st.session_state or st.session_state['last_branch_keyword_input'] != branch_keyword_input:
+    st.session_state["page_number_tab1"] = 1
+    st.session_state["rec_page_number"] = 1
+st.session_state['last_branch_keyword_input'] = branch_keyword_input
+
+if 'last_selected_city' not in st.session_state or st.session_state['last_selected_city'] != selected_city:
+    st.session_state["page_number_tab1"] = 1
+    st.session_state["rec_page_number"] = 1
+st.session_state['last_selected_city'] = selected_city
+
+if 'last_min_rank' not in st.session_state or st.session_state['last_min_rank'] != min_rank:
+    st.session_state["page_number_tab1"] = 1
+    st.session_state["rec_page_number"] = 1
+st.session_state['last_min_rank'] = min_rank
+
+if 'last_max_rank' not in st.session_state or st.session_state['last_max_rank'] != max_rank:
+    st.session_state["page_number_tab1"] = 1
+    st.session_state["rec_page_number"] = 1
+st.session_state['last_max_rank'] = max_rank
+
 # === Columns to Display ===
 default_columns = ["College Code", "College Name", "branch", "closing_rank", "College Rank"]
 
@@ -141,7 +173,7 @@ with tab1:
             "branch": "Branch"
         })
 
-        st.write(f"Showing {len(paginated_df_display)} records out of {len(filtered_df)} total.")
+        st.write(f"Showing {len(paginated_df_display)} records out of {len(filtered_df)} total. (Page {page_number} of {total_pages})")
 
         st.dataframe(
             paginated_df_display,
@@ -188,7 +220,6 @@ with tab2:
 
     if not recommendation_df.empty:
         st.markdown(f"✅ Showing recommendations for rank **{entered_rank}** in category **'{selected_category}'**.")
-        st.markdown(f"Showing {len(recommendation_df)} total matching records.")
 
         # Order by College Rank before pagination
         ordered_rec_df = recommendation_df.sort_values(by=["College Rank", "closing_rank"])
@@ -211,6 +242,8 @@ with tab2:
             "closing_rank": "Closing Rank",
             "branch": "Branch"
         })
+
+        st.markdown(f"Showing {len(paginated_rec_df)} records out of {len(recommendation_df)} total. (Page {page_number_rec} of {total_pages_rec})")
 
         st.dataframe(
             recommendation_df_display,
