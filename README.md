@@ -46,26 +46,6 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 🌐 Deployment
-
-### ✅ Streamlit Community Cloud
-
-1. Push your code to GitHub.
-2. Go to [Streamlit Cloud](https://share.streamlit.io).
-3. Click **New app**.
-4. Select:
-   - Repository: `anrao2657/college-recommendations`
-   - Branch: `main`
-   - File: `main.py`
-5. Click **Deploy**.
-
-Your app will be live at:
-
-```
-https://<username>-college-recommendations.streamlit.app
-```
-
----
 
 ## ⚠️ Disclaimer
 
@@ -77,7 +57,7 @@ Always refer to **official counselling portals and authorities** for final decis
 
 ## 👤 Author
 
-Developed by **Nageswara Rao Anakapalli**.  
+Developed by **Nag A**.  
 For queries, collaborations, or if you find any bugs, please let me know at: [your.email@example.com].
 
 ---
