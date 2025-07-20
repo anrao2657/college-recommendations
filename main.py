@@ -30,6 +30,10 @@ div[data-testid="stDataFrame"] div[role="gridcell"] {
     white-space: normal !important;
     text-overflow: ellipsis;
 }
+/* Adjust tab font size */
+div[data-testid="stTabs"] button {
+    font-size: 12px;
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -111,20 +115,23 @@ tab1, tab2 = st.tabs(["Colleges", "Rank Recommendations"])
 
 # === Tab 1: Colleges ===
 with tab1:
-    st.markdown("#### Colleges")
+    st.markdown("### Colleges")
     filtered_df = filter_dataframe(df)
 
     if not filtered_df.empty:
+        # Order by College Rank before pagination
+        ordered_df = filtered_df.sort_values(by=["College Rank", "closing_rank"])
+
         # Pagination setup
         items_per_page = 20
-        total_pages = (len(filtered_df) - 1) // items_per_page + 1
+        total_pages = (len(ordered_df) - 1) // items_per_page + 1
         page_number = st.session_state.get("page_number_tab1", 1)
 
         start_idx = (page_number - 1) * items_per_page
         end_idx = start_idx + items_per_page
-        paginated_df = filtered_df.iloc[start_idx:end_idx]
+        paginated_df = ordered_df.iloc[start_idx:end_idx]
 
-        paginated_df_display = paginated_df[default_columns].sort_values(by="closing_rank").reset_index(drop=True)
+        paginated_df_display = paginated_df[default_columns].reset_index(drop=True)
         paginated_df_display.insert(0, "S.No", paginated_df_display.index + 1 + start_idx)
         paginated_df_display = paginated_df_display.set_index("S.No")
 
@@ -144,11 +151,14 @@ with tab1:
         # Compact Next/Prev buttons
         col1, col2, col3 = st.columns([2,1,2])
         with col1:
-            prev_clicked_bottom = st.button("⬅️ Prev", key="prev_tab1")
+            if page_number > 1:
+                prev_clicked_bottom = st.button("⬅️ Prev", key="prev_tab1")
+            else:
+                st.markdown("")  # Empty placeholder to maintain layout
         with col3:
             next_clicked_bottom = st.button("Next ➡️", key="next_tab1")
 
-        if prev_clicked_bottom and page_number > 1:
+        if 'prev_clicked_bottom' in locals() and prev_clicked_bottom and page_number > 1:
             page_number -= 1
         if next_clicked_bottom and page_number < total_pages:
             page_number += 1
@@ -167,7 +177,7 @@ with tab1:
 
 # === Tab 2: Rank Recommendations ===
 with tab2:
-    st.markdown("#### Recommended Branches Based on Your Rank")
+    st.markdown("### Recommended Branches Based on Your Rank")
     entered_rank = st.number_input("Enter your rank to find possible branches", min_value=0, step=1, value=100, key="entered_rank_tab")
 
     recommendation_df = filter_dataframe(df)
@@ -177,17 +187,22 @@ with tab2:
     ]
 
     if not recommendation_df.empty:
+        st.markdown(f"✅ Showing recommendations for rank **{entered_rank}** in category **'{selected_category}'**.")
+        st.markdown(f"Showing {len(recommendation_df)} total matching records.")
+
+        # Order by College Rank before pagination
+        ordered_rec_df = recommendation_df.sort_values(by=["College Rank", "closing_rank"])
+
         # Pagination setup
         items_per_page_rec = 20
-        total_pages_rec = (len(recommendation_df) - 1) // items_per_page_rec + 1
+        total_pages_rec = (len(ordered_rec_df) - 1) // items_per_page_rec + 1
         page_number_rec = st.session_state.get("rec_page_number", 1)
 
         start_idx_rec = (page_number_rec - 1) * items_per_page_rec
         end_idx_rec = start_idx_rec + items_per_page_rec
-        paginated_rec_df = recommendation_df.iloc[start_idx_rec:end_idx_rec]
+        paginated_rec_df = ordered_rec_df.iloc[start_idx_rec:end_idx_rec]
 
-        st.success(f"✅ Showing recommendations for rank {entered_rank} in category '{selected_category}'.")
-        recommendation_df_display = paginated_rec_df[default_columns].sort_values(by="closing_rank").reset_index(drop=True)
+        recommendation_df_display = paginated_rec_df[default_columns].reset_index(drop=True)
         recommendation_df_display.insert(0, "S.No", recommendation_df_display.index + 1 + start_idx_rec)
         recommendation_df_display = recommendation_df_display.set_index("S.No")
 
@@ -197,8 +212,6 @@ with tab2:
             "branch": "Branch"
         })
 
-        st.write(f"Showing {len(recommendation_df_display)} records out of {len(recommendation_df)} total.")
-
         st.dataframe(
             recommendation_df_display,
             use_container_width=True
@@ -207,11 +220,14 @@ with tab2:
         # Compact Next/Prev buttons
         col1_rec, col2_rec, col3_rec = st.columns([2,1,2])
         with col1_rec:
-            prev_clicked_bottom_rec = st.button("⬅️ Prev", key="prev_tab2")
+            if page_number_rec > 1:
+                prev_clicked_bottom_rec = st.button("⬅️ Prev", key="prev_tab2")
+            else:
+                st.markdown("")  # Empty placeholder to maintain layout
         with col3_rec:
             next_clicked_bottom_rec = st.button("Next ➡️", key="next_tab2")
 
-        if prev_clicked_bottom_rec and page_number_rec > 1:
+        if 'prev_clicked_bottom_rec' in locals() and prev_clicked_bottom_rec and page_number_rec > 1:
             page_number_rec -= 1
         if next_clicked_bottom_rec and page_number_rec < total_pages_rec:
             page_number_rec += 1
