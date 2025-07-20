@@ -155,7 +155,7 @@ with tab1:
         ordered_df = filtered_df.sort_values(by=["College Rank", "closing_rank"])
 
         # Pagination setup
-        items_per_page = 20
+        items_per_page = 10
         total_pages = (len(ordered_df) - 1) // items_per_page + 1
         page_number = st.session_state.get("page_number_tab1", 1)
 
@@ -175,10 +175,9 @@ with tab1:
 
         st.write(f"Showing {len(paginated_df_display)} records out of {len(filtered_df)} total. (Page {page_number} of {total_pages})")
 
-        st.dataframe(
-            paginated_df_display,
-            use_container_width=True
-        )
+        st.dataframe(paginated_df_display, use_container_width=True)
+
+        next_clicked_bottom = False  # Initialize
 
         # Compact Next/Prev buttons
         col1, col2, col3 = st.columns([2,1,2])
@@ -188,7 +187,10 @@ with tab1:
             else:
                 st.markdown("")  # Empty placeholder to maintain layout
         with col3:
-            next_clicked_bottom = st.button("Next ➡️", key="next_tab1")
+            if total_pages > 1 and page_number < total_pages:
+                next_clicked_bottom = st.button("Next ➡️", key="next_tab1")
+            else:
+                st.markdown("")  # Empty placeholder to maintain layout
 
         if 'prev_clicked_bottom' in locals() and prev_clicked_bottom and page_number > 1:
             page_number -= 1
@@ -225,7 +227,7 @@ with tab2:
         ordered_rec_df = recommendation_df.sort_values(by=["College Rank", "closing_rank"])
 
         # Pagination setup
-        items_per_page_rec = 20
+        items_per_page_rec = 10
         total_pages_rec = (len(ordered_rec_df) - 1) // items_per_page_rec + 1
         page_number_rec = st.session_state.get("rec_page_number", 1)
 
@@ -245,10 +247,9 @@ with tab2:
 
         st.markdown(f"Showing {len(paginated_rec_df)} records out of {len(recommendation_df)} total. (Page {page_number_rec} of {total_pages_rec})")
 
-        st.dataframe(
-            recommendation_df_display,
-            use_container_width=True
-        )
+        st.dataframe(recommendation_df_display, use_container_width=True)
+
+        next_clicked_bottom_rec = False  # Initialize to avoid NameError
 
         # Compact Next/Prev buttons
         col1_rec, col2_rec, col3_rec = st.columns([2,1,2])
@@ -258,7 +259,10 @@ with tab2:
             else:
                 st.markdown("")  # Empty placeholder to maintain layout
         with col3_rec:
-            next_clicked_bottom_rec = st.button("Next ➡️", key="next_tab2")
+            if total_pages_rec > 1 and page_number_rec < total_pages_rec:
+                next_clicked_bottom_rec = st.button("Next ➡️", key="next_tab2")
+            else:
+                st.markdown("")  # Empty placeholder to maintain layout
 
         if 'prev_clicked_bottom_rec' in locals() and prev_clicked_bottom_rec and page_number_rec > 1:
             page_number_rec -= 1
