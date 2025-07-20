@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# Streamlit logs and cache
+.streamlit/
+
+# Environment variables
+.env
+
+# CSV outputs or data files (if generated locally)
+*.csv
+
+# PDFs or raw data files (optional, if large)
+*.pdf

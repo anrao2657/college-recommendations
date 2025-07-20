@@ -13,14 +13,18 @@ st.set_page_config(
 st.markdown("""
 <style>
 .main .block-container {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-top: 0rem;
+    margin-top: -16rem;
+    padding-bottom: 0rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
     max-width: 100%;
 }
 div[data-testid="stDataFrame"] div[role="grid"] {
     overflow-x: auto;
+    font-size: 12px;
+    border: 1px solid #444;
+    border-radius: 4px;
 }
 div[data-testid="stDataFrame"] div[role="gridcell"] {
     white-space: normal !important;
@@ -30,15 +34,10 @@ div[data-testid="stDataFrame"] div[role="gridcell"] {
 """, unsafe_allow_html=True)
 
 # === Title ===
-st.title("🎓 COMEDK Branch Cutoff Viewer")
+st.markdown("<h3>🎓 COMEDK Branch Cutoff Viewer</h3>", unsafe_allow_html=True)
+st.markdown("_Data source: 2024 Engineering cut-off after all rounds. Notified on 17.07.2025._")
 
-# === Instructions Expander ===
-with st.expander("ℹ️ How to use this app"):
-    st.write("""
-    - Use filters to narrow down colleges.
-    - Switch between Colleges and Rank Recommendations tabs.
-    - Download results as CSV for offline analysis.
-    """)
+
 
 # === Load Data with Cache ===
 @st.cache_data
@@ -112,18 +111,53 @@ tab1, tab2 = st.tabs(["Colleges", "Rank Recommendations"])
 
 # === Tab 1: Colleges ===
 with tab1:
-    st.subheader("📊 Colleges")
+    st.markdown("#### Colleges")
     filtered_df = filter_dataframe(df)
 
     if not filtered_df.empty:
-        filtered_df_display = filtered_df[default_columns].sort_values(by="closing_rank").reset_index(drop=True)
-        filtered_df_display.insert(0, "S.No", filtered_df_display.index + 1)
-        filtered_df_display = filtered_df_display.set_index("S.No")
-        st.table(filtered_df_display)
+        # Pagination setup
+        items_per_page = 20
+        total_pages = (len(filtered_df) - 1) // items_per_page + 1
+        page_number = st.session_state.get("page_number_tab1", 1)
 
-        csv = filtered_df_display.reset_index().to_csv(index=False).encode('utf-8')
+        start_idx = (page_number - 1) * items_per_page
+        end_idx = start_idx + items_per_page
+        paginated_df = filtered_df.iloc[start_idx:end_idx]
+
+        paginated_df_display = paginated_df[default_columns].sort_values(by="closing_rank").reset_index(drop=True)
+        paginated_df_display.insert(0, "S.No", paginated_df_display.index + 1 + start_idx)
+        paginated_df_display = paginated_df_display.set_index("S.No")
+
+        # Rename columns for display clarity
+        paginated_df_display = paginated_df_display.rename(columns={
+            "closing_rank": "Closing Rank",
+            "branch": "Branch"
+        })
+
+        st.write(f"Showing {len(paginated_df_display)} records out of {len(filtered_df)} total.")
+
+        st.dataframe(
+            paginated_df_display,
+            use_container_width=True
+        )
+
+        # Compact Next/Prev buttons
+        col1, col2, col3 = st.columns([2,1,2])
+        with col1:
+            prev_clicked_bottom = st.button("⬅️ Prev", key="prev_tab1")
+        with col3:
+            next_clicked_bottom = st.button("Next ➡️", key="next_tab1")
+
+        if prev_clicked_bottom and page_number > 1:
+            page_number -= 1
+        if next_clicked_bottom and page_number < total_pages:
+            page_number += 1
+
+        st.session_state["page_number_tab1"] = page_number
+
+        csv = filtered_df[default_columns].reset_index(drop=True).to_csv(index=False).encode('utf-8')
         st.download_button(
-            label="💾 Download Results as CSV",
+            label="💾 Download Full Results as CSV",
             data=csv,
             file_name='filtered_cutoffs.csv',
             mime='text/csv'
@@ -133,7 +167,7 @@ with tab1:
 
 # === Tab 2: Rank Recommendations ===
 with tab2:
-    st.subheader("🔮 Recommended Branches Based on Your Rank")
+    st.markdown("#### Recommended Branches Based on Your Rank")
     entered_rank = st.number_input("Enter your rank to find possible branches", min_value=0, step=1, value=100, key="entered_rank_tab")
 
     recommendation_df = filter_dataframe(df)
@@ -143,14 +177,57 @@ with tab2:
     ]
 
     if not recommendation_df.empty:
+        # Pagination setup
+        items_per_page_rec = 20
+        total_pages_rec = (len(recommendation_df) - 1) // items_per_page_rec + 1
+        page_number_rec = st.session_state.get("rec_page_number", 1)
+
+        start_idx_rec = (page_number_rec - 1) * items_per_page_rec
+        end_idx_rec = start_idx_rec + items_per_page_rec
+        paginated_rec_df = recommendation_df.iloc[start_idx_rec:end_idx_rec]
+
         st.success(f"✅ Showing recommendations for rank {entered_rank} in category '{selected_category}'.")
-        recommendation_df_display = recommendation_df[default_columns].sort_values(by="closing_rank").reset_index(drop=True)
-        recommendation_df_display.insert(0, "S.No", recommendation_df_display.index + 1)
+        recommendation_df_display = paginated_rec_df[default_columns].sort_values(by="closing_rank").reset_index(drop=True)
+        recommendation_df_display.insert(0, "S.No", recommendation_df_display.index + 1 + start_idx_rec)
         recommendation_df_display = recommendation_df_display.set_index("S.No")
-        st.table(recommendation_df_display)
+
+        # Rename columns for display clarity
+        recommendation_df_display = recommendation_df_display.rename(columns={
+            "closing_rank": "Closing Rank",
+            "branch": "Branch"
+        })
+
+        st.write(f"Showing {len(recommendation_df_display)} records out of {len(recommendation_df)} total.")
+
+        st.dataframe(
+            recommendation_df_display,
+            use_container_width=True
+        )
+
+        # Compact Next/Prev buttons
+        col1_rec, col2_rec, col3_rec = st.columns([2,1,2])
+        with col1_rec:
+            prev_clicked_bottom_rec = st.button("⬅️ Prev", key="prev_tab2")
+        with col3_rec:
+            next_clicked_bottom_rec = st.button("Next ➡️", key="next_tab2")
+
+        if prev_clicked_bottom_rec and page_number_rec > 1:
+            page_number_rec -= 1
+        if next_clicked_bottom_rec and page_number_rec < total_pages_rec:
+            page_number_rec += 1
+
+        st.session_state["rec_page_number"] = page_number_rec
+
     else:
         st.warning("⚠️ No recommendations found. Please adjust filters or rank value.")
 
 # === Footer ===
 st.markdown("---")
+st.markdown("""
+## ⚠️ Disclaimer
+
+This app is **not an official counselling tool**.  
+It has been developed solely to assist students in analysing publicly available data efficiently.  
+Always refer to **official counselling portals and authorities** for final decisions.
+""")
 st.caption("Developed with ❤️ using Streamlit | © 2025 YourTeamName")
