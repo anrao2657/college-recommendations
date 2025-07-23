@@ -1,0 +1,990 @@
+College Code,College Name,Seat Category,City,branch,closing_rank
+E005,"Akash Institute of Engineering and Technology-Devanahalli, Bengaluru Rural",GM,Bengaluru Rural,AD-Artificial Intelligence & Data Science,110202
+E009,"Angadi Institute of Technology and Management-Savagaon Road, Belagavi",GM,Belagavi,AD-Artificial Intelligence & Data Science,76135
+E013,"Akshaya Institute of Technology-Koratagere Road, Tumakuru",GM,Tumakuru,AD-Artificial Intelligence & Data Science,104749
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,2681
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bengaluru,AD-Artificial Intelligence & Data Science,13327
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,18125
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",KKR,Bengaluru,AD-Artificial Intelligence & Data Science,65008
+E035,"Channabasaveshwara Institute of Technology- Gubbi, Tumakuru",GM,Tumakuru,AD-Artificial Intelligence & Data Science,106098
+E038,"Coorg Institute of Technology-Ponnampet, South Kodagu",GM,South Kodagu,AD-Artificial Intelligence & Data Science,87138
+E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,78529
+E045,"Dr H N National College Of Engineering-Jayanagar, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,107862
+E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,95595
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,56104
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",KKR,Bengaluru,AD-Artificial Intelligence & Data Science,93584
+E055,"GSSS Institute of Engineering and Technology for Women-Metagalli, Mysuru",GM,Mysuru,AD-Artificial Intelligence & Data Science,48269
+E055,"GSSS Institute of Engineering and Technology for Women-Metagalli, Mysuru",KKR,Mysuru,AD-Artificial Intelligence & Data Science,97455
+E066,"KLE College of Engineering and Technology-Chikodi Dist., Belagavi",GM,Belagavi,AD-Artificial Intelligence & Data Science,97107
+E067,"K.S School of Engineering And Management-Off Kanakapura Road, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,101440
+E075,"KNS Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,100144
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,1828
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,AD-Artificial Intelligence & Data Science,6494
+E082,"Maharaja Institute of Technology-Thandavapura, Mysuru",GM,Mysuru,AD-Artificial Intelligence & Data Science,91790
+E082,"Maharaja Institute of Technology-Thandavapura, Mysuru",KKR,Mysuru,AD-Artificial Intelligence & Data Science,96946
+E100,"Rajeev Institute of Technology-BM Bypass Road, Hassan",GM,Hassan,AD-Artificial Intelligence & Data Science,69655
+E108,"S J C Institute of Technology-BB Road, Chikkaballapur",GM,Chikkaballapur,AD-Artificial Intelligence & Data Science,103949
+E109,"S.E.A. College of Engineering and Technology-K R Puram, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,105457
+E110,"SSETs S.G. Balekundri Institute of Technology-Shivabasva Nagar, Belagavi",GM,Belagavi,AD-Artificial Intelligence & Data Science,101776
+E114,"Sambhram Institute of Technology-Jalahalli East, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,103357
+E118,"SDM Institute of Technology, Tulu Minority-Ujjire, Dakshina Kannada",GM,Dakshina Kannada,AD-Artificial Intelligence & Data Science,64100
+E123,"Shri Madhwa Vadiraja Institute of Technology and Management-Bantakal, Udupi",GM,Udupi,AD-Artificial Intelligence & Data Science,62552
+E138,"Srinivas Institute of Technology-Hampankatta, Mangaluru",GM,Mangaluru,AD-Artificial Intelligence & Data Science,67531
+E164,"Reva University-Yelahanka, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,18798
+E164,"Reva University-Yelahanka, Bengaluru",KKR,Bengaluru,AD-Artificial Intelligence & Data Science,63261
+E207,"BGS College of Engineering and Technology-Mahalaxmipuram, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,67182
+E209,"Aditya College of Engineering and Technology-Yelahanka, Bengaluru",GM,Bengaluru,AD-Artificial Intelligence & Data Science,91289
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bengaluru,AE-Aeronautical Engineering,40891
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bengaluru,AE-Aeronautical Engineering,80648
+E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",GM,Bengaluru,AE-Aeronautical Engineering,94757
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bengaluru,AE-Aeronautical Engineering,89408
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",KKR,Bengaluru,AE-Aeronautical Engineering,101846
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,AE-Aeronautical Engineering,14372
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,AE-Aeronautical Engineering,28997
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bengaluru,AE-Aeronautical Engineering,50234
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bengaluru,AE-Aeronautical Engineering,77003
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bengaluru,AE-Aeronautical Engineering,95021
+E071,"Karavali Institute of Technology-Kottara, Mangaluru",GM,Mangaluru,AE-Aeronautical Engineering,111746
+E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Belagavi,AE-Aeronautical Engineering,53894
+E080,"Mangalore Institute of Technology and Engineering-Moodbidri, Mangaluru",GM,Mangaluru,AE-Aeronautical Engineering,111798
+E108,"S J C Institute of Technology-BB Road, Chikkaballapur",GM,Chikkaballapur,AE-Aeronautical Engineering,96822
+E211,"East West College of Engineering-Yelahanka, Bengaluru",GM,Bengaluru,AE-Aeronautical Engineering,106695
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,31672
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,77402
+E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,70872
+E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,92638
+E004,"Adichunchanagiri Institute Of Technology-Jyothi Nagara, Chikkamagaluru",GM,Chikkamagaluru,AI-Artificial Intelligence & Machine Learning,83793
+E006,"Alvas Institute of Engineering and Technology-Moodbidri, Mangaluru",GM,Mangaluru,AI-Artificial Intelligence & Machine Learning,109512
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,68207
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,88135
+E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,57754
+E014,"Anuvartik Mirji Bharatesh Institute of Technology-Shindhollicross, Belagavi",GM,Belagavi,AI-Artificial Intelligence & Machine Learning,108895
+E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,19079
+E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,48608
+E017,"Ballari Institute of Technology And Management-Near Allipura, Ballari",GM,Ballari,AI-Artificial Intelligence & Machine Learning,98103
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,8380
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,28553
+E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,67897
+E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,80903
+E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Davangere,AI-Artificial Intelligence & Machine Learning,99691
+E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",KKR,Davangere,AI-Artificial Intelligence & Machine Learning,104525
+E024,"Basaveshwar Engineering College-Vidya Nagar, Bagalkote",GM,Bagalkote,AI-Artificial Intelligence & Machine Learning,78643
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,3043
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,15219
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,11593
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,36344
+E030,"Brindavan College of Engineering-Yelahanka, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,105621
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,16708
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,64349
+E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,37146
+E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,111009
+E037,"City Engineering College-Doddakalasandra, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,110482
+E038,"Coorg Institute of Technology-Ponnampet, South Kodagu",GM,South Kodagu,AI-Artificial Intelligence & Machine Learning,101886
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,4593
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,17711
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,28403
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,58887
+E043,"Yenepoya Institute of Technology formerly known as Dr. M V Shetty Institute of Technology-Moodbidri, Mangaluru",GM,Mangaluru,AI-Artificial Intelligence & Machine Learning,111559
+E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,88757
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,48133
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,104865
+E051,"GM Institute of Technology-P B Road, Davangere",GM,Davangere,AI-Artificial Intelligence & Machine Learning,109969
+E056,"H.K.E.Societys P.D.A. College of Engineering-Aiwan E Shahi area, Kalaburgi",GM,Kalaburgi,AI-Artificial Intelligence & Machine Learning,99650
+E059,"Jawaharlal Nehru New College of Engineering JNNCE-Swalanga Road, Shivamogga",GM,Shivamogga,AI-Artificial Intelligence & Machine Learning,82096
+E068,"K.S. Institute of Technology-Kanakapura Main Road, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,82433
+E075,"KNS Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,108097
+E076,"M.S. Engineering College-Sadahalli, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,54245
+E076,"M.S. Engineering College-Sadahalli, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,84732
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,1633
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,7902
+E080,"Mangalore Institute of Technology and Engineering-Moodbidri, Mangaluru",GM,Mangaluru,AI-Artificial Intelligence & Machine Learning,104686
+E081,"Moodalakatte Institute of Technology-Moodalakatte, Udupi",GM,Udupi,AI-Artificial Intelligence & Machine Learning,100968
+E083,"Mysuru Royal Institute of Technology-Palahallli, Mandya District",GM,Mandya District,AI-Artificial Intelligence & Machine Learning,104732
+E090,"PES Institute of Technology and Management-Kotegangoor Cost, Shivamogga",GM,Shivamogga,AI-Artificial Intelligence & Machine Learning,31703
+E090,"PES Institute of Technology and Management-Kotegangoor Cost, Shivamogga",KKR,Shivamogga,AI-Artificial Intelligence & Machine Learning,97600
+E097,"R.R. Institute of Technology-Chikkabanavara, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,96398
+E098,"R T E Societys Rural Engineering College-Hulkoti, Gadag",GM,Gadag,AI-Artificial Intelligence & Machine Learning,74609
+E099,"Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,108837
+E101,"Rajiv Gandhi Institute of Technology-R T Nagar Post, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,86945
+E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,33354
+E107,"SJB Institute of Technology-Kengeri, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,89424
+E109,"S.E.A. College of Engineering and Technology-K R Puram, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,74038
+E114,"Sambhram Institute of Technology-Jalahalli East, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,107883
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",GM,Dharwad,AI-Artificial Intelligence & Machine Learning,42312
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",KKR,Dharwad,AI-Artificial Intelligence & Machine Learning,69916
+E121,"Sri Sairam College of Engineering-Anekal, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,100054
+E123,"Shri Madhwa Vadiraja Institute of Technology and Management-Bantakal, Udupi",GM,Udupi,AI-Artificial Intelligence & Machine Learning,68554
+E124,"Shridevi Institute of Engineering and Technology-Sira Road, Tumakuru",GM,Tumakuru,AI-Artificial Intelligence & Machine Learning,92929
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,14818
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bengaluru,AI-Artificial Intelligence & Machine Learning,42879
+E127,"SJM Institute of Technology-NH 4 Bye-pass, Chitradurga",GM,Chitradurga,AI-Artificial Intelligence & Machine Learning,66030
+E132,"Sri Krishna Institute of Technology-Chikkabanavara, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,100975
+E138,"Srinivas Institute of Technology-Hampankatta, Mangaluru",GM,Mangaluru,AI-Artificial Intelligence & Machine Learning,82632
+E141,"T. John Institute of Technology-Bannerghatta Road, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,109722
+E143,"Tontadarya College of Engineering-Mundaragi Road , Gadag",GM,Gadag,AI-Artificial Intelligence & Machine Learning,95863
+E145,"Vemana Institute of Technology-Koramangala, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,110976
+E148,"Vivekananda College of Engineering and Technology-Puttur, Dakshin Kannada",GM,Dakshin Kannada,AI-Artificial Intelligence & Machine Learning,96012
+E156,"Jyothy Institute of Technology-Tathguni, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,109781
+E183,"Jain Institute of Technology-Avaragere Village, Davangere",GM,Davangere,AI-Artificial Intelligence & Machine Learning,95179
+E194,"Jain College of Engineering and Technology-Unkal, Hubballi",GM,Hubballi,AI-Artificial Intelligence & Machine Learning,62198
+E195,"Navkis College of Engineering -Kandali NH75, Hassan",GM,Hassan,AI-Artificial Intelligence & Machine Learning,103040
+E202,"C Byregowda Insitute of Technology-Thoradevandahalli, Kolar",GM,Kolar,AI-Artificial Intelligence & Machine Learning,76399
+E203,"Amruta Institute of Engineering and Management Science-Bidadi, Ramnagar Taluk, Bengaluru Rural",GM,Bengaluru Rural,AI-Artificial Intelligence & Machine Learning,66355
+E207,"BGS College of Engineering and Technology-Mahalaxmipuram, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,64829
+E209,"Aditya College of Engineering and Technology-Yelahanka, Bengaluru",GM,Bengaluru,AI-Artificial Intelligence & Machine Learning,102506
+E212,"Seshadripuram Institute of Technology - Jaipura Hobli, Mysuru",GM,Mysuru,AI-Artificial Intelligence & Machine Learning,76224
+E214,"Sri Siddhartha School of Engineering-Near Kyathsandra Toll Gate, Tumkur",GM,Tumkur,AI-Artificial Intelligence & Machine Learning,108674
+E006,"Alvas Institute of Engineering and Technology-Moodbidri, Mangaluru",GM,Mangaluru,AL-Agricultural Engineering,102792
+E164,"Reva University-Yelahanka, Bengaluru",GM,Bengaluru,AL-Agricultural Engineering,59408
+E164,"Reva University-Yelahanka, Bengaluru",KKR,Bengaluru,AL-Agricultural Engineering,86205
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",GM,Hubballi,AR-Automation & Robotics Engineering,35707
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",KKR,Hubballi,AR-Automation & Robotics Engineering,79665
+E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",GM,Bengaluru,AS-Aerospace Engineering,44372
+E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",KKR,Bengaluru,AS-Aerospace Engineering,80099
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,AS-Aerospace Engineering,5911
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,AS-Aerospace Engineering,21999
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,AS-Aerospace Engineering,2326
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,AS-Aerospace Engineering,15889
+E108,"S J C Institute of Technology-BB Road, Chikkaballapur",GM,Chikkaballapur,AS-Aerospace Engineering,74075
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,AS-Aerospace Engineering,25302
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,AU-Automobile Engineering,18227
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,AU-Automobile Engineering,76203
+E197,"M.S. Ramaiah University of Applied Sciences-MSR Nagar, Bengaluru",GM,Bengaluru,AVE-Automotive Engineering,22503
+E197,"M.S. Ramaiah University of Applied Sciences-MSR Nagar, Bengaluru",KKR,Bengaluru,AVE-Automotive Engineering,107055
+E191,"Sir M V School Of Architecture-Yelahanka, Bengaluru",GM,Bengaluru,BD-Bachelor of Design,103694
+E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Belagavi,BD-Bachelor of Design,58226
+E065,"KLE Technological University Formerly called as KLE Dr. M.S. Sheshgiri College of Engineering and Technology-Udyambag, Belagavi",GM,Belagavi,BM-Bio-Medical Engineering,108876
+E101,"Rajiv Gandhi Institute of Technology-R T Nagar Post, Bengaluru",GM,Bengaluru,BM-Bio-Medical Engineering,90728
+E191,"Sir M V School Of Architecture-Yelahanka, Bengaluru",GM,Bengaluru,BP-Bachelor of Urban & Regional Planning,60255
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bengaluru,BT-Biotechnology,59900
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bengaluru,BT-Biotechnology,94718
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",GM,Hubballi,BT-Biotechnology,85626
+E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Davangere,BT-Biotechnology,82175
+E024,"Basaveshwar Engineering College-Vidya Nagar, Bagalkote",GM,Bagalkote,BT-Biotechnology,97480
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bengaluru,BT-Biotechnology,18547
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bengaluru,BT-Biotechnology,57710
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,BT-Biotechnology,29267
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,BT-Biotechnology,81543
+E061,JSS Science and Technology University-Mysuru,GM,,BT-Biotechnology,48669
+E061,JSS Science and Technology University-Mysuru,KKR,,BT-Biotechnology,93008
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,BT-Biotechnology,17527
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,BT-Biotechnology,78214
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,BT-Biotechnology,8569
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,BT-Biotechnology,27720
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,BT-Biotechnology,46769
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,BT-Biotechnology,33867
+E216,"New Ebenezer Institute of Technology - Kothanur, Bangalore",GM,Bangalore,CA-Computer Science & Engineering (Artificial Intelligence),38523
+E216,"New Ebenezer Institute of Technology - Kothanur, Bangalore",KKR,Bangalore,CA-Computer Science & Engineering (Artificial Intelligence),81555
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bengaluru,CB-Computer Science & Business Systems,2830
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bengaluru,CB-Computer Science & Business Systems,12612
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bengaluru,CB-Computer Science & Business Systems,10775
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",KKR,Bengaluru,CB-Computer Science & Business Systems,37185
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bengaluru,CB-Computer Science & Business Systems,33311
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bengaluru,CB-Computer Science & Business Systems,87924
+E061,JSS Science and Technology University-Mysuru,GM,,CB-Computer Science & Business Systems,13565
+E061,JSS Science and Technology University-Mysuru,KKR,,CB-Computer Science & Business Systems,31762
+E067,"K.S School of Engineering And Management-Off Kanakapura Road, Bengaluru",GM,Bengaluru,CB-Computer Science & Business Systems,95890
+E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Mandya,CB-Computer Science & Business Systems,100751
+E079,"Malnad College of Engineering-Rangoli Halla, Hassan",GM,Hassan,CB-Computer Science & Business Systems,94070
+E089,"P.E.S.College of Engineering-PES College Road, Mandya",GM,Mandya,CB-Computer Science & Business Systems,12418
+E138,"Srinivas Institute of Technology-Hampankatta, Mangaluru",GM,Mangaluru,CB-Computer Science & Business Systems,96827
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,CBD-Computer Science & Technology (Big Data),40808
+E173,"Presidency University-Yelahanka, Bengaluru",KKR,Bengaluru,CBD-Computer Science & Technology (Big Data),99717
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bengaluru,CCA-Civil Engineering with Computer Application,91982
+E036,"Chanakya University-Devanahalli, Bengaluru Rural",GM,Bengaluru Rural,CCS-CIVIL CONSTRUCTION & SUSTAINABILITY ENGINEERING,78919
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),31729
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),75539
+E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),111679
+E004,"Adichunchanagiri Institute Of Technology-Jyothi Nagara, Chikkamagaluru",GM,Chikkamagaluru,CD-Computer Science & Engineering (Data Science),97528
+E005,"Akash Institute of Engineering and Technology-Devanahalli, Bengaluru Rural",GM,Bengaluru Rural,CD-Computer Science & Engineering (Data Science),106210
+E006,"Alvas Institute of Engineering and Technology-Moodbidri, Mangaluru",GM,Mangaluru,CD-Computer Science & Engineering (Data Science),83897
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),83048
+E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),66345
+E017,"Ballari Institute of Technology And Management-Near Allipura, Ballari",GM,Ballari,CD-Computer Science & Engineering (Data Science),109097
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),7121
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),25034
+E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),83540
+E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Davangere,CD-Computer Science & Engineering (Data Science),99166
+E026,"BLDEAs V.P. Dr.P.G.Halakatti College of Engineering and Technology-Ashram Road, Vijayapura",GM,Vijayapura,CD-Computer Science & Engineering (Data Science),103425
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),2478
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),12096
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),14918
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),62734
+E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),36499
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),21434
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),52821
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),3917
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),17486
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),29153
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),61358
+E046,"East Point College of Engineering and Technology-Avalahalli, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),73933
+E053,"Gopalan College of Engineering And Management-Whitefield, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),89084
+E059,"Jawaharlal Nehru New College of Engineering JNNCE-Swalanga Road, Shivamogga",GM,Shivamogga,CD-Computer Science & Engineering (Data Science),104928
+E071,"Karavali Institute of Technology-Kottara, Mangaluru",GM,Mangaluru,CD-Computer Science & Engineering (Data Science),20301
+E075,"KNS Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),103486
+E076,"M.S. Engineering College-Sadahalli, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),71433
+E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Mandya,CD-Computer Science & Engineering (Data Science),93285
+E084,"Nagarjuna College of Engineering And Technology-Devanahalli, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),106136
+E089,"P.E.S.College of Engineering-PES College Road, Mandya",GM,Mandya,CD-Computer Science & Engineering (Data Science),14814
+E090,"PES Institute of Technology and Management-Kotegangoor Cost, Shivamogga",GM,Shivamogga,CD-Computer Science & Engineering (Data Science),35090
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),503
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),2557
+E096,"R.L. Jalappa Institute of Technology-Kodigehalli, Doddaballapur",GM,Doddaballapur,CD-Computer Science & Engineering (Data Science),84087
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),23071
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),58845
+E105,"Bheemanna Khandre Institute of Technology-Bhalki, Bidar",GM,Bidar,CD-Computer Science & Engineering (Data Science),83596
+E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),37893
+E107,"SJB Institute of Technology-Kengeri, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),109296
+E113,"Sai Vidya Institute of Technology-Rajan Kunte, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),111623
+E116,"Sapthagiri NPS University-Hesarghatta Main Road, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),67261
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),14919
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),50137
+E137,"Sri Venkateshwara College of Engineering-KIAL Road, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),93050
+E145,"Vemana Institute of Technology-Koramangala, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),92682
+E152,"ATME College of Engineering-Bannur Road, Mysuru",GM,Mysuru,CD-Computer Science & Engineering (Data Science),101487
+E161,"Cambridge Institute of Technology North Campus-Kundana, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),51070
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),13394
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),83441
+E172,"Mysore College of Engineering and Management-Chikkahalli, Mysuru",GM,Mysuru,CD-Computer Science & Engineering (Data Science),109338
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),36441
+E173,"Presidency University-Yelahanka, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),93275
+E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bengaluru,CD-Computer Science & Engineering (Data Science),30037
+E187,"CMR University-Bagalur-Chagalatti, Bengaluru",KKR,Bengaluru,CD-Computer Science & Engineering (Data Science),85641
+E217,"Harsha Institute of Technology-Nelamangala Taluk, Bangalore Rural",GM,Bangalore Rural,CD-Computer Science & Engineering (Data Science),111222
+E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",GM,Bengaluru,CE-Computer Engineering,71241
+E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Mandya,CE-Computer Engineering,96870
+E090,"PES Institute of Technology and Management-Kotegangoor Cost, Shivamogga",GM,Shivamogga,CE-Computer Engineering,42375
+E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bengaluru,CE-Computer Engineering,36091
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,CG-Computer Science & Design,5470
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,CG-Computer Science & Design,20402
+E068,"K.S. Institute of Technology-Kanakapura Main Road, Bengaluru",GM,Bengaluru,CG-Computer Science & Design,110510
+E090,"PES Institute of Technology and Management-Kotegangoor Cost, Shivamogga",GM,Shivamogga,CG-Computer Science & Design,56946
+E099,"Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru",GM,Bengaluru,CG-Computer Science & Design,94773
+E108,"S J C Institute of Technology-BB Road, Chikkaballapur",GM,Chikkaballapur,CG-Computer Science & Design,50876
+E207,"BGS College of Engineering and Technology-Mahalaxmipuram, Bengaluru",GM,Bengaluru,CG-Computer Science & Design,91844
+E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Davangere,CH-Chemical Engineering,94423
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bengaluru,CH-Chemical Engineering,16340
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bengaluru,CH-Chemical Engineering,76894
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,CH-Chemical Engineering,22504
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,CH-Chemical Engineering,44202
+E065,"KLE Technological University Formerly called as KLE Dr. M.S. Sheshgiri College of Engineering and Technology-Udyambag, Belagavi",GM,Belagavi,CH-Chemical Engineering,77219
+E065,"KLE Technological University Formerly called as KLE Dr. M.S. Sheshgiri College of Engineering and Technology-Udyambag, Belagavi",KKR,Belagavi,CH-Chemical Engineering,84413
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,CH-Chemical Engineering,16405
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,CH-Chemical Engineering,44791
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,CH-Chemical Engineering,6632
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,CH-Chemical Engineering,42015
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",GM,Dharwad,CH-Chemical Engineering,70048
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",KKR,Dharwad,CH-Chemical Engineering,101383
+E005,"Akash Institute of Engineering and Technology-Devanahalli, Bengaluru Rural",GM,Bengaluru Rural,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),111733
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),83269
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),92917
+E011,"APS College of Engineering-Kanakapura Road, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),75328
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),13525
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),44538
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),19366
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),43815
+E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),79690
+E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),97034
+E046,"East Point College of Engineering and Technology-Avalahalli, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),71697
+E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),83430
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),50209
+E053,"Gopalan College of Engineering And Management-Whitefield, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),104372
+E055,"GSSS Institute of Engineering and Technology for Women-Metagalli, Mysuru",GM,Mysuru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),41931
+E055,"GSSS Institute of Engineering and Technology for Women-Metagalli, Mysuru",KKR,Mysuru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),85204
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),22983
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),65823
+E061,JSS Science and Technology University-Mysuru,GM,,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),10684
+E061,JSS Science and Technology University-Mysuru,KKR,,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),21554
+E062,"Jain College of Engineering-T.S Nagar, Belagavi",GM,Belagavi,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),43519
+E064,"Jain College of Engineering and Research-Udyambag, Belagavi",GM,Belagavi,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),76523
+E069,"KVG College Of Engineering-Sullia, Dakshina Kannada",GM,Dakshina Kannada,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),83852
+E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Belagavi,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),38321
+E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",KKR,Belagavi,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),68804
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),1233
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),8281
+E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Mandya,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),84629
+E079,"Malnad College of Engineering-Rangoli Halla, Hassan",GM,Hassan,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),86343
+E079,"Malnad College of Engineering-Rangoli Halla, Hassan",KKR,Hassan,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),90991
+E080,"Mangalore Institute of Technology and Engineering-Moodbidri, Mangaluru",GM,Mangaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),104858
+E081,"Moodalakatte Institute of Technology-Moodalakatte, Udupi",GM,Udupi,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),65473
+E082,"Maharaja Institute of Technology-Thandavapura, Mysuru",GM,Mysuru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),104925
+E084,"Nagarjuna College of Engineering And Technology-Devanahalli, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),110636
+E085,"The National Institute of Engineering North Campus-Koorgalli, Mysuru",GM,Mysuru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),9902
+E085,"The National Institute of Engineering North Campus-Koorgalli, Mysuru",KKR,Mysuru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),29334
+E088,"Navodaya Institute of Technology-Bijangera, Raichur",GM,Raichur,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),89470
+E089,"P.E.S.College of Engineering-PES College Road, Mandya",GM,Mandya,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),9745
+E089,"P.E.S.College of Engineering-PES College Road, Mandya",KKR,Mandya,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),103061
+E094,"Proudhadevaraya Institute of Technology-TB Dam Road, Hosapete",GM,Hosapete,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),50341
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),517
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),2048
+E096,"R.L. Jalappa Institute of Technology-Kodigehalli, Doddaballapur",GM,Doddaballapur,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),106963
+E102,"Rao Bahadur Y Mahabaleswarappa Engineering College-Cantonment, Ballari",GM,Ballari,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),92820
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),23817
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),58192
+E108,"S J C Institute of Technology-BB Road, Chikkaballapur",GM,Chikkaballapur,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),105536
+E112,"Sahyadri College of Engineering and Management-Adyar, Mangaluru",GM,Mangaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),76763
+E113,"Sai Vidya Institute of Technology-Rajan Kunte, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),110575
+E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",GM,Tumakuru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),11279
+E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",KKR,Tumakuru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),23523
+E128,"Smt. Kamala and Sri Venkappa M. Agadi College of Engineering and Technology- Laxmeswar, Gadag",GM,Gadag,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),80171
+E147,"Vidyavardhaka College of Engineering-Gokulam, Mysuru",GM,Mysuru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),51087
+E147,"Vidyavardhaka College of Engineering-Gokulam, Mysuru",KKR,Mysuru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),95881
+E152,"ATME College of Engineering-Bannur Road, Mysuru",GM,Mysuru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),87560
+E161,"Cambridge Institute of Technology North Campus-Kundana, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),60538
+E164,"Reva University-Yelahanka, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),12812
+E164,"Reva University-Yelahanka, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),57158
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),6792
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),71243
+E172,"Mysore College of Engineering and Management-Chikkahalli, Mysuru",GM,Mysuru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),100014
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),29510
+E173,"Presidency University-Yelahanka, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),86987
+E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),28594
+E187,"CMR University-Bagalur-Chagalatti, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),80417
+E198,"R V Institute of Technology and Management-J P Nagar, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),10780
+E198,"R V Institute of Technology and Management-J P Nagar, Bengaluru",KKR,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),25876
+E205,"Vijaya Vittala Institution of Technology-Kothanur, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),109004
+E208,"A.G.M Rural College of Engineering and Technology-Varur, Hubballi",GM,Hubballi,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),101469
+E209,"Aditya College of Engineering and Technology-Yelahanka, Bengaluru",GM,Bengaluru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),79094
+E215,"Cauvery College of Engineering-KBL Layout, Mysuru",GM,Mysuru,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),105087
+E216,"New Ebenezer Institute of Technology - Kothanur, Bangalore",GM,Bangalore,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),41235
+E217,"Harsha Institute of Technology-Nelamangala Taluk, Bangalore Rural",GM,Bangalore Rural,CI-Computer Science & Engineering (Artificial Intelligence & Machine Learning),110476
+E068,"K.S. Institute of Technology-Kanakapura Main Road, Bengaluru",GM,Bengaluru,CM-Computer & Communication Engineering,102147
+E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",GM,Bengaluru,CO-Computer Science & Engineering (IOT),106469
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,CO-Computer Science & Engineering (IOT),30059
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",KKR,Bengaluru,CO-Computer Science & Engineering (IOT),75713
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,CO-Computer Science & Engineering (IOT),40876
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,29900
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,71316
+E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,81896
+E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,84428
+E004,"Adichunchanagiri Institute Of Technology-Jyothi Nagara, Chikkamagaluru",GM,Chikkamagaluru,CS-Computer Science & Engineering,109207
+E005,"Akash Institute of Engineering and Technology-Devanahalli, Bengaluru Rural",GM,Bengaluru Rural,CS-Computer Science & Engineering,86010
+E005,"Akash Institute of Engineering and Technology-Devanahalli, Bengaluru Rural",KKR,Bengaluru Rural,CS-Computer Science & Engineering,94242
+E006,"Alvas Institute of Engineering and Technology-Moodbidri, Mangaluru",GM,Mangaluru,CS-Computer Science & Engineering,110618
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,82017
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,108388
+E009,"Angadi Institute of Technology and Management-Savagaon Road, Belagavi",GM,Belagavi,CS-Computer Science & Engineering,110388
+E011,"APS College of Engineering-Kanakapura Road, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,110299
+E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,65235
+E012,"Atria Institute of Technology-Hebbal, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,107333
+E013,"Akshaya Institute of Technology-Koratagere Road, Tumakuru",GM,Tumakuru,CS-Computer Science & Engineering,108040
+E014,"Anuvartik Mirji Bharatesh Institute of Technology-Shindhollicross, Belagavi",GM,Belagavi,CS-Computer Science & Engineering,97950
+E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,16152
+E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,44870
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",GM,Hubballi,CS-Computer Science & Engineering,21484
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",KKR,Hubballi,CS-Computer Science & Engineering,37237
+E017,"Ballari Institute of Technology And Management-Near Allipura, Ballari",GM,Ballari,CS-Computer Science & Engineering,96362
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,6414
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,21322
+E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,80385
+E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Davangere,CS-Computer Science & Engineering,89491
+E024,"Basaveshwar Engineering College-Vidya Nagar, Bagalkote",GM,Bagalkote,CS-Computer Science & Engineering,69404
+E024,"Basaveshwar Engineering College-Vidya Nagar, Bagalkote",KKR,Bagalkote,CS-Computer Science & Engineering,93452
+E026,"BLDEAs V.P. Dr.P.G.Halakatti College of Engineering and Technology-Ashram Road, Vijayapura",GM,Vijayapura,CS-Computer Science & Engineering,108471
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,2409
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,10732
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,10371
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,33907
+E030,"Brindavan College of Engineering-Yelahanka, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,109698
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,13114
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,39362
+E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,35643
+E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,109468
+E035,"Channabasaveshwara Institute of Technology- Gubbi, Tumakuru",GM,Tumakuru,CS-Computer Science & Engineering,110106
+E037,"City Engineering College-Doddakalasandra, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,109524
+E038,"Coorg Institute of Technology-Ponnampet, South Kodagu",GM,South Kodagu,CS-Computer Science & Engineering,72739
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,19681
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,46728
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,3766
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,17350
+E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,82819
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,24860
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,53225
+E043,"Yenepoya Institute of Technology formerly known as Dr. M V Shetty Institute of Technology-Moodbidri, Mangaluru",GM,Mangaluru,CS-Computer Science & Engineering,99571
+E044,"Dr.Shri Shri Shivakumara Mahaswamy College of Engineering-Nelamangala, Bengaluru Rural",GM,Bengaluru Rural,CS-Computer Science & Engineering,56929
+E045,"Dr H N National College Of Engineering-Jayanagar, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,92842
+E046,"East Point College of Engineering and Technology-Avalahalli, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,53030
+E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,110697
+E049,"Garden City University-Old Madras Road, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,53666
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,45308
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,102628
+E051,"GM Institute of Technology-P B Road, Davangere",GM,Davangere,CS-Computer Science & Engineering,110850
+E053,"Gopalan College of Engineering And Management-Whitefield, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,85763
+E055,"GSSS Institute of Engineering and Technology for Women-Metagalli, Mysuru",GM,Mysuru,CS-Computer Science & Engineering,37767
+E055,"GSSS Institute of Engineering and Technology for Women-Metagalli, Mysuru",KKR,Mysuru,CS-Computer Science & Engineering,95894
+E056,"H.K.E.Societys P.D.A. College of Engineering-Aiwan E Shahi area, Kalaburgi",GM,Kalaburgi,CS-Computer Science & Engineering,106601
+E058,"Sri Jayachamarajendra College of Engineering constituent college of JSS Science and Technology University-Manasagangothri, Mysuru",GM,Mysuru,CS-Computer Science & Engineering,3110
+E058,"Sri Jayachamarajendra College of Engineering constituent college of JSS Science and Technology University-Manasagangothri, Mysuru",KKR,Mysuru,CS-Computer Science & Engineering,15540
+E059,"Jawaharlal Nehru New College of Engineering JNNCE-Swalanga Road, Shivamogga",GM,Shivamogga,CS-Computer Science & Engineering,90424
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,20459
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,55604
+E061,JSS Science and Technology University-Mysuru,GM,,CS-Computer Science & Engineering,10249
+E061,JSS Science and Technology University-Mysuru,KKR,,CS-Computer Science & Engineering,24156
+E062,"Jain College of Engineering-T.S Nagar, Belagavi",GM,Belagavi,CS-Computer Science & Engineering,79636
+E064,"Jain College of Engineering and Research-Udyambag, Belagavi",GM,Belagavi,CS-Computer Science & Engineering,103800
+E065,"KLE Technological University Formerly called as KLE Dr. M.S. Sheshgiri College of Engineering and Technology-Udyambag, Belagavi",GM,Belagavi,CS-Computer Science & Engineering,48099
+E066,"KLE College of Engineering and Technology-Chikodi Dist., Belagavi",GM,Belagavi,CS-Computer Science & Engineering,85534
+E067,"K.S School of Engineering And Management-Off Kanakapura Road, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,106267
+E068,"K.S. Institute of Technology-Kanakapura Main Road, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,72740
+E068,"K.S. Institute of Technology-Kanakapura Main Road, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,94404
+E069,"KVG College Of Engineering-Sullia, Dakshina Kannada",GM,Dakshina Kannada,CS-Computer Science & Engineering,84090
+E070,"Kalpataru Institute of Technology-B H Road, Tiptur",GM,Tiptur,CS-Computer Science & Engineering,66223
+E071,"Karavali Institute of Technology-Kottara, Mangaluru",GM,Mangaluru,CS-Computer Science & Engineering,74464
+E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Belagavi,CS-Computer Science & Engineering,41497
+E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",KKR,Belagavi,CS-Computer Science & Engineering,80069
+E074,"KLS Vishwanathrao Deshpande Institute of Technology-Dandeli Road, Haliyal",GM,Haliyal,CS-Computer Science & Engineering,108933
+E075,"KNS Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,110391
+E076,"M.S. Engineering College-Sadahalli, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,79943
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,928
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,4592
+E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Mandya,CS-Computer Science & Engineering,84316
+E079,"Malnad College of Engineering-Rangoli Halla, Hassan",GM,Hassan,CS-Computer Science & Engineering,111070
+E080,"Mangalore Institute of Technology and Engineering-Moodbidri, Mangaluru",GM,Mangaluru,CS-Computer Science & Engineering,111345
+E081,"Moodalakatte Institute of Technology-Moodalakatte, Udupi",GM,Udupi,CS-Computer Science & Engineering,64360
+E082,"Maharaja Institute of Technology-Thandavapura, Mysuru",GM,Mysuru,CS-Computer Science & Engineering,103054
+E084,"Nagarjuna College of Engineering And Technology-Devanahalli, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,110315
+E085,"The National Institute of Engineering North Campus-Koorgalli, Mysuru",GM,Mysuru,CS-Computer Science & Engineering,9474
+E085,"The National Institute of Engineering North Campus-Koorgalli, Mysuru",KKR,Mysuru,CS-Computer Science & Engineering,29048
+E088,"Navodaya Institute of Technology-Bijangera, Raichur",GM,Raichur,CS-Computer Science & Engineering,109181
+E089,"P.E.S.College of Engineering-PES College Road, Mandya",GM,Mandya,CS-Computer Science & Engineering,14509
+E089,"P.E.S.College of Engineering-PES College Road, Mandya",KKR,Mandya,CS-Computer Science & Engineering,110014
+E090,"PES Institute of Technology and Management-Kotegangoor Cost, Shivamogga",GM,Shivamogga,CS-Computer Science & Engineering,26725
+E094,"Proudhadevaraya Institute of Technology-TB Dam Road, Hosapete",GM,Hosapete,CS-Computer Science & Engineering,72637
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,336
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,934
+E096,"R.L. Jalappa Institute of Technology-Kodigehalli, Doddaballapur",GM,Doddaballapur,CS-Computer Science & Engineering,57127
+E097,"R.R. Institute of Technology-Chikkabanavara, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,109273
+E098,"R T E Societys Rural Engineering College-Hulkoti, Gadag",GM,Gadag,CS-Computer Science & Engineering,78362
+E099,"Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,108415
+E100,"Rajeev Institute of Technology-BM Bypass Road, Hassan",GM,Hassan,CS-Computer Science & Engineering,101505
+E101,"Rajiv Gandhi Institute of Technology-R T Nagar Post, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,104449
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,19901
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,50313
+E105,"Bheemanna Khandre Institute of Technology-Bhalki, Bidar",GM,Bidar,CS-Computer Science & Engineering,66960
+E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,35186
+E107,"SJB Institute of Technology-Kengeri, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,85620
+E108,"S J C Institute of Technology-BB Road, Chikkaballapur",GM,Chikkaballapur,CS-Computer Science & Engineering,107837
+E109,"S.E.A. College of Engineering and Technology-K R Puram, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,92535
+E110,"SSETs S.G. Balekundri Institute of Technology-Shivabasva Nagar, Belagavi",GM,Belagavi,CS-Computer Science & Engineering,108233
+E112,"Sahyadri College of Engineering and Management-Adyar, Mangaluru",GM,Mangaluru,CS-Computer Science & Engineering,90025
+E113,"Sai Vidya Institute of Technology-Rajan Kunte, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,109358
+E114,"Sambhram Institute of Technology-Jalahalli East, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,110352
+E116,"Sapthagiri NPS University-Hesarghatta Main Road, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,50997
+E116,"Sapthagiri NPS University-Hesarghatta Main Road, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,99336
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",GM,Dharwad,CS-Computer Science & Engineering,37070
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",KKR,Dharwad,CS-Computer Science & Engineering,60203
+E118,"SDM Institute of Technology, Tulu Minority-Ujjire, Dakshina Kannada",GM,Dakshina Kannada,CS-Computer Science & Engineering,49353
+E119,"SECAB Institute of Engineering andTechnology-Nauraspur-Bagalkot Road, Vijayapura",GM,Vijayapura,CS-Computer Science & Engineering,56269
+E121,"Sri Sairam College of Engineering-Anekal, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,110207
+E122,"Shree Devi Institute of Technology-Kenjar, Mangaluru",GM,Mangaluru,CS-Computer Science & Engineering,12355
+E123,"Shri Madhwa Vadiraja Institute of Technology and Management-Bantakal, Udupi",GM,Udupi,CS-Computer Science & Engineering,101913
+E124,"Shridevi Institute of Engineering and Technology-Sira Road, Tumakuru",GM,Tumakuru,CS-Computer Science & Engineering,95651
+E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",GM,Tumakuru,CS-Computer Science & Engineering,10980
+E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",KKR,Tumakuru,CS-Computer Science & Engineering,24995
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,13603
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,47501
+E127,"SJM Institute of Technology-NH 4 Bye-pass, Chitradurga",GM,Chitradurga,CS-Computer Science & Engineering,29023
+E128,"Smt. Kamala and Sri Venkappa M. Agadi College of Engineering and Technology- Laxmeswar, Gadag",GM,Gadag,CS-Computer Science & Engineering,87857
+E132,"Sri Krishna Institute of Technology-Chikkabanavara, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,110595
+E136,"Sri Taralabalu Jagadguru Institute of Technology-Haveri Dist., Ranebennur",GM,Ranebennur,CS-Computer Science & Engineering,41140
+E137,"Sri Venkateshwara College of Engineering-KIAL Road, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,104621
+E138,"Srinivas Institute of Technology-Hampankatta, Mangaluru",GM,Mangaluru,CS-Computer Science & Engineering,56811
+E141,"T. John Institute of Technology-Bannerghatta Road, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,106939
+E145,"Vemana Institute of Technology-Koramangala, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,105410
+E146,"Vidya Vikas Institute of Engineering and Technology-Alnahally, Mysuru",GM,Mysuru,CS-Computer Science & Engineering,75315
+E146,"Vidya Vikas Institute of Engineering and Technology-Alnahally, Mysuru",KKR,Mysuru,CS-Computer Science & Engineering,104355
+E147,"Vidyavardhaka College of Engineering-Gokulam, Mysuru",GM,Mysuru,CS-Computer Science & Engineering,55261
+E147,"Vidyavardhaka College of Engineering-Gokulam, Mysuru",KKR,Mysuru,CS-Computer Science & Engineering,106835
+E148,"Vivekananda College of Engineering and Technology-Puttur, Dakshin Kannada",GM,Dakshin Kannada,CS-Computer Science & Engineering,83253
+E152,"ATME College of Engineering-Bannur Road, Mysuru",GM,Mysuru,CS-Computer Science & Engineering,84726
+E156,"Jyothy Institute of Technology-Tathguni, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,110829
+E161,"Cambridge Institute of Technology North Campus-Kundana, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,55590
+E161,"Cambridge Institute of Technology North Campus-Kundana, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,88206
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,16718
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,59585
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,6315
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,24998
+E172,"Mysore College of Engineering and Management-Chikkahalli, Mysuru",GM,Mysuru,CS-Computer Science & Engineering,109305
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,26449
+E173,"Presidency University-Yelahanka, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,75921
+E183,"Jain Institute of Technology-Avaragere Village, Davangere",GM,Davangere,CS-Computer Science & Engineering,110397
+E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,27309
+E187,"CMR University-Bagalur-Chagalatti, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,100024
+E194,"Jain College of Engineering and Technology-Unkal, Hubballi",GM,Hubballi,CS-Computer Science & Engineering,89437
+E194,"Jain College of Engineering and Technology-Unkal, Hubballi",KKR,Hubballi,CS-Computer Science & Engineering,108783
+E195,"Navkis College of Engineering -Kandali NH75, Hassan",GM,Hassan,CS-Computer Science & Engineering,78169
+E198,"R V Institute of Technology and Management-J P Nagar, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,8733
+E198,"R V Institute of Technology and Management-J P Nagar, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,22916
+E199,"Biluru Gurubasava Mahaswamiji Institute of Technology-Mudhol, Bagalkot",GM,Bagalkot,CS-Computer Science & Engineering,53194
+E203,"Amruta Institute of Engineering and Management Science-Bidadi, Ramnagar Taluk, Bengaluru Rural",GM,Bengaluru Rural,CS-Computer Science & Engineering,61727
+E204,"H.K.E. Societys Sir M. Visvesvaraya College of Engineering-Yermarus Camp, Raichur",GM,Raichur,CS-Computer Science & Engineering,58851
+E205,"Vijaya Vittala Institution of Technology-Kothanur, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,98948
+E206,"Cauvery Institute Of Technology-Sundahalli, Mandya",GM,Mandya,CS-Computer Science & Engineering,89035
+E207,"BGS College of Engineering and Technology-Mahalaxmipuram, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,58620
+E207,"BGS College of Engineering and Technology-Mahalaxmipuram, Bengaluru",KKR,Bengaluru,CS-Computer Science & Engineering,82137
+E209,"Aditya College of Engineering and Technology-Yelahanka, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,111282
+E211,"East West College of Engineering-Yelahanka, Bengaluru",GM,Bengaluru,CS-Computer Science & Engineering,81265
+E212,"Seshadripuram Institute of Technology - Jaipura Hobli, Mysuru",GM,Mysuru,CS-Computer Science & Engineering,69219
+E214,"Sri Siddhartha School of Engineering-Near Kyathsandra Toll Gate, Tumkur",GM,Tumkur,CS-Computer Science & Engineering,91993
+E216,"New Ebenezer Institute of Technology - Kothanur, Bangalore",GM,Bangalore,CS-Computer Science & Engineering,110448
+E217,"Harsha Institute of Technology-Nelamangala Taluk, Bangalore Rural",GM,Bangalore Rural,CS-Computer Science & Engineering,111675
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,CSD-Computer Science & Technology (Devops),32176
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,CSD-Computer Science & Technology (Devops),41420
+E049,"Garden City University-Old Madras Road, Bengaluru",GM,Bengaluru,CST-Computer Science & Technology,97498
+E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bengaluru,CST-Computer Science & Technology,35153
+E214,"Sri Siddhartha School of Engineering-Near Kyathsandra Toll Gate, Tumkur",GM,Tumkur,CU-Cyber Security,90914
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bengaluru,CV-Civil Engineering,70026
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bengaluru,CV-Civil Engineering,93784
+E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bengaluru,CV-Civil Engineering,94732
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",GM,Hubballi,CV-Civil Engineering,111127
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,CV-Civil Engineering,46023
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,CV-Civil Engineering,83820
+E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",GM,Bengaluru,CV-Civil Engineering,93576
+E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Davangere,CV-Civil Engineering,95637
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bengaluru,CV-Civil Engineering,21321
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bengaluru,CV-Civil Engineering,57165
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bengaluru,CV-Civil Engineering,40000
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",KKR,Bengaluru,CV-Civil Engineering,84969
+E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bengaluru,CV-Civil Engineering,108782
+E035,"Channabasaveshwara Institute of Technology- Gubbi, Tumakuru",GM,Tumakuru,CV-Civil Engineering,101700
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,CV-Civil Engineering,27845
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,CV-Civil Engineering,68362
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bengaluru,CV-Civil Engineering,65128
+E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bengaluru,CV-Civil Engineering,96241
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bengaluru,CV-Civil Engineering,104120
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bengaluru,CV-Civil Engineering,74792
+E061,JSS Science and Technology University-Mysuru,GM,,CV-Civil Engineering,55967
+E064,"Jain College of Engineering and Research-Udyambag, Belagavi",GM,Belagavi,CV-Civil Engineering,64792
+E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Belagavi,CV-Civil Engineering,110996
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,CV-Civil Engineering,19414
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,CV-Civil Engineering,47731
+E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Mandya,CV-Civil Engineering,105541
+E089,"P.E.S.College of Engineering-PES College Road, Mandya",GM,Mandya,CV-Civil Engineering,23559
+E090,"PES Institute of Technology and Management-Kotegangoor Cost, Shivamogga",GM,Shivamogga,CV-Civil Engineering,110360
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,CV-Civil Engineering,10090
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,CV-Civil Engineering,39198
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bengaluru,CV-Civil Engineering,62208
+E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bengaluru,CV-Civil Engineering,68684
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",GM,Dharwad,CV-Civil Engineering,92174
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,CV-Civil Engineering,58570
+E147,"Vidyavardhaka College of Engineering-Gokulam, Mysuru",GM,Mysuru,CV-Civil Engineering,79686
+E158,"Shetty Institute of Technology - Gulbarga Shahabad Road, Kalaburagi",GM,Kalaburagi,CV-Civil Engineering,8078
+E164,"Reva University-Yelahanka, Bengaluru",GM,Bengaluru,CV-Civil Engineering,64179
+E164,"Reva University-Yelahanka, Bengaluru",KKR,Bengaluru,CV-Civil Engineering,108551
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,CV-Civil Engineering,96035
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,CV-Civil Engineering,107673
+E197,"M.S. Ramaiah University of Applied Sciences-MSR Nagar, Bengaluru",GM,Bengaluru,CV-Civil Engineering,24829
+E203,"Amruta Institute of Engineering and Management Science-Bidadi, Ramnagar Taluk, Bengaluru Rural",GM,Bengaluru Rural,CV-Civil Engineering,94606
+E214,"Sri Siddhartha School of Engineering-Near Kyathsandra Toll Gate, Tumkur",GM,Tumkur,CV-Civil Engineering,82591
+E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),98149
+E005,"Akash Institute of Engineering and Technology-Devanahalli, Bengaluru Rural",GM,Bengaluru Rural,CY-Computer Science & Engineering (Cyber Security),39940
+E011,"APS College of Engineering-Kanakapura Road, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),59028
+E038,"Coorg Institute of Technology-Ponnampet, South Kodagu",GM,South Kodagu,CY-Computer Science & Engineering (Cyber Security),81952
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),22293
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",KKR,Bengaluru,CY-Computer Science & Engineering (Cyber Security),53984
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),4532
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,CY-Computer Science & Engineering (Cyber Security),20369
+E076,"M.S. Engineering College-Sadahalli, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),97345
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),1452
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,CY-Computer Science & Engineering (Cyber Security),11783
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),592
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,CY-Computer Science & Engineering (Cyber Security),3338
+E096,"R.L. Jalappa Institute of Technology-Kodigehalli, Doddaballapur",GM,Doddaballapur,CY-Computer Science & Engineering (Cyber Security),106576
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),24389
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",KKR,Bengaluru,CY-Computer Science & Engineering (Cyber Security),65407
+E114,"Sambhram Institute of Technology-Jalahalli East, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),107636
+E137,"Sri Venkateshwara College of Engineering-KIAL Road, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),102858
+E145,"Vemana Institute of Technology-Koramangala, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),96196
+E161,"Cambridge Institute of Technology North Campus-Kundana, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),41240
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),24192
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",KKR,Bengaluru,CY-Computer Science & Engineering (Cyber Security),27795
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),13500
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",KKR,Bengaluru,CY-Computer Science & Engineering (Cyber Security),81199
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,CY-Computer Science & Engineering (Cyber Security),36647
+E173,"Presidency University-Yelahanka, Bengaluru",KKR,Bengaluru,CY-Computer Science & Engineering (Cyber Security),95816
+E215,"Cauvery College of Engineering-KBL Layout, Mysuru",GM,Mysuru,CY-Computer Science & Engineering (Cyber Security),63634
+E217,"Harsha Institute of Technology-Nelamangala Taluk, Bangalore Rural",GM,Bangalore Rural,CY-Computer Science & Engineering (Cyber Security),98687
+E209,"Aditya College of Engineering and Technology-Yelahanka, Bengaluru",GM,Bengaluru,DS-Data Science,74590
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,44652
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,97035
+E003,"A.C.S. College of Engineering-Kambipura Mysore Road, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,110471
+E004,"Adichunchanagiri Institute Of Technology-Jyothi Nagara, Chikkamagaluru",GM,Chikkamagaluru,EC-Electronics & Communication Engineering,110191
+E005,"Akash Institute of Engineering and Technology-Devanahalli, Bengaluru Rural",GM,Bengaluru Rural,EC-Electronics & Communication Engineering,99522
+E006,"Alvas Institute of Engineering and Technology-Moodbidri, Mangaluru",GM,Mangaluru,EC-Electronics & Communication Engineering,91746
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,111162
+E009,"Angadi Institute of Technology and Management-Savagaon Road, Belagavi",GM,Belagavi,EC-Electronics & Communication Engineering,104692
+E011,"APS College of Engineering-Kanakapura Road, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,83993
+E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,109370
+E014,"Anuvartik Mirji Bharatesh Institute of Technology-Shindhollicross, Belagavi",GM,Belagavi,EC-Electronics & Communication Engineering,109578
+E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,23857
+E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,62244
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",GM,Hubballi,EC-Electronics & Communication Engineering,37452
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",KKR,Hubballi,EC-Electronics & Communication Engineering,70401
+E017,"Ballari Institute of Technology And Management-Near Allipura, Ballari",GM,Ballari,EC-Electronics & Communication Engineering,47857
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,12471
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,41340
+E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,94248
+E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Davangere,EC-Electronics & Communication Engineering,98423
+E024,"Basaveshwar Engineering College-Vidya Nagar, Bagalkote",GM,Bagalkote,EC-Electronics & Communication Engineering,99134
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,3584
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,17442
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,13370
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,41513
+E030,"Brindavan College of Engineering-Yelahanka, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,29665
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,26314
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,97992
+E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,53323
+E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,64529
+E035,"Channabasaveshwara Institute of Technology- Gubbi, Tumakuru",GM,Tumakuru,EC-Electronics & Communication Engineering,18339
+E037,"City Engineering College-Doddakalasandra, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,96817
+E038,"Coorg Institute of Technology-Ponnampet, South Kodagu",GM,South Kodagu,EC-Electronics & Communication Engineering,92784
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,27699
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,75283
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,6820
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,28470
+E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,90566
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,33879
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,89166
+E043,"Yenepoya Institute of Technology formerly known as Dr. M V Shetty Institute of Technology-Moodbidri, Mangaluru",GM,Mangaluru,EC-Electronics & Communication Engineering,74734
+E045,"Dr H N National College Of Engineering-Jayanagar, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,104887
+E046,"East Point College of Engineering and Technology-Avalahalli, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,75355
+E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,93759
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,74893
+E055,"GSSS Institute of Engineering and Technology for Women-Metagalli, Mysuru",GM,Mysuru,EC-Electronics & Communication Engineering,72244
+E059,"Jawaharlal Nehru New College of Engineering JNNCE-Swalanga Road, Shivamogga",GM,Shivamogga,EC-Electronics & Communication Engineering,96890
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,32405
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,102464
+E062,"Jain College of Engineering-T.S Nagar, Belagavi",GM,Belagavi,EC-Electronics & Communication Engineering,110628
+E064,"Jain College of Engineering and Research-Udyambag, Belagavi",GM,Belagavi,EC-Electronics & Communication Engineering,109976
+E065,"KLE Technological University Formerly called as KLE Dr. M.S. Sheshgiri College of Engineering and Technology-Udyambag, Belagavi",GM,Belagavi,EC-Electronics & Communication Engineering,62025
+E066,"KLE College of Engineering and Technology-Chikodi Dist., Belagavi",GM,Belagavi,EC-Electronics & Communication Engineering,104133
+E068,"K.S. Institute of Technology-Kanakapura Main Road, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,111393
+E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Belagavi,EC-Electronics & Communication Engineering,53410
+E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",KKR,Belagavi,EC-Electronics & Communication Engineering,91837
+E074,"KLS Vishwanathrao Deshpande Institute of Technology-Dandeli Road, Haliyal",GM,Haliyal,EC-Electronics & Communication Engineering,94920
+E075,"KNS Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,89055
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,2424
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,13428
+E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Mandya,EC-Electronics & Communication Engineering,110498
+E079,"Malnad College of Engineering-Rangoli Halla, Hassan",GM,Hassan,EC-Electronics & Communication Engineering,111060
+E080,"Mangalore Institute of Technology and Engineering-Moodbidri, Mangaluru",GM,Mangaluru,EC-Electronics & Communication Engineering,82622
+E082,"Maharaja Institute of Technology-Thandavapura, Mysuru",GM,Mysuru,EC-Electronics & Communication Engineering,109041
+E084,"Nagarjuna College of Engineering And Technology-Devanahalli, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,82940
+E089,"P.E.S.College of Engineering-PES College Road, Mandya",GM,Mandya,EC-Electronics & Communication Engineering,14934
+E090,"PES Institute of Technology and Management-Kotegangoor Cost, Shivamogga",GM,Shivamogga,EC-Electronics & Communication Engineering,59109
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,808
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,3376
+E097,"R.R. Institute of Technology-Chikkabanavara, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,87953
+E099,"Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,107124
+E100,"Rajeev Institute of Technology-BM Bypass Road, Hassan",GM,Hassan,EC-Electronics & Communication Engineering,86802
+E101,"Rajiv Gandhi Institute of Technology-R T Nagar Post, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,96226
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,28423
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,69830
+E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,52039
+E108,"S J C Institute of Technology-BB Road, Chikkaballapur",GM,Chikkaballapur,EC-Electronics & Communication Engineering,88420
+E110,"SSETs S.G. Balekundri Institute of Technology-Shivabasva Nagar, Belagavi",GM,Belagavi,EC-Electronics & Communication Engineering,90429
+E112,"Sahyadri College of Engineering and Management-Adyar, Mangaluru",GM,Mangaluru,EC-Electronics & Communication Engineering,94385
+E113,"Sai Vidya Institute of Technology-Rajan Kunte, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,100699
+E114,"Sambhram Institute of Technology-Jalahalli East, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,94126
+E116,"Sapthagiri NPS University-Hesarghatta Main Road, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,61540
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",GM,Dharwad,EC-Electronics & Communication Engineering,50691
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",KKR,Dharwad,EC-Electronics & Communication Engineering,84027
+E118,"SDM Institute of Technology, Tulu Minority-Ujjire, Dakshina Kannada",GM,Dakshina Kannada,EC-Electronics & Communication Engineering,74248
+E121,"Sri Sairam College of Engineering-Anekal, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,109678
+E124,"Shridevi Institute of Engineering and Technology-Sira Road, Tumakuru",GM,Tumakuru,EC-Electronics & Communication Engineering,73527
+E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",GM,Tumakuru,EC-Electronics & Communication Engineering,15210
+E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",KKR,Tumakuru,EC-Electronics & Communication Engineering,39033
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,21087
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,63165
+E128,"Smt. Kamala and Sri Venkappa M. Agadi College of Engineering and Technology- Laxmeswar, Gadag",GM,Gadag,EC-Electronics & Communication Engineering,96610
+E132,"Sri Krishna Institute of Technology-Chikkabanavara, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,55003
+E137,"Sri Venkateshwara College of Engineering-KIAL Road, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,102453
+E141,"T. John Institute of Technology-Bannerghatta Road, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,30882
+E142,"The National Institute of Engineering South Campus-Mananthavady Road, Mysuru",GM,Mysuru,EC-Electronics & Communication Engineering,14782
+E142,"The National Institute of Engineering South Campus-Mananthavady Road, Mysuru",KKR,Mysuru,EC-Electronics & Communication Engineering,31750
+E145,"Vemana Institute of Technology-Koramangala, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,97081
+E147,"Vidyavardhaka College of Engineering-Gokulam, Mysuru",GM,Mysuru,EC-Electronics & Communication Engineering,68020
+E147,"Vidyavardhaka College of Engineering-Gokulam, Mysuru",KKR,Mysuru,EC-Electronics & Communication Engineering,88965
+E152,"ATME College of Engineering-Bannur Road, Mysuru",GM,Mysuru,EC-Electronics & Communication Engineering,110394
+E156,"Jyothy Institute of Technology-Tathguni, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,76473
+E161,"Cambridge Institute of Technology North Campus-Kundana, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,76881
+E164,"Reva University-Yelahanka, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,30251
+E164,"Reva University-Yelahanka, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,77801
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,35890
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,18609
+E172,"Mysore College of Engineering and Management-Chikkahalli, Mysuru",GM,Mysuru,EC-Electronics & Communication Engineering,82443
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,46780
+E173,"Presidency University-Yelahanka, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,110659
+E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,40014
+E187,"CMR University-Bagalur-Chagalatti, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,102267
+E194,"Jain College of Engineering and Technology-Unkal, Hubballi",GM,Hubballi,EC-Electronics & Communication Engineering,106996
+E198,"R V Institute of Technology and Management-J P Nagar, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,11669
+E198,"R V Institute of Technology and Management-J P Nagar, Bengaluru",KKR,Bengaluru,EC-Electronics & Communication Engineering,28814
+E203,"Amruta Institute of Engineering and Management Science-Bidadi, Ramnagar Taluk, Bengaluru Rural",GM,Bengaluru Rural,EC-Electronics & Communication Engineering,103927
+E208,"A.G.M Rural College of Engineering and Technology-Varur, Hubballi",GM,Hubballi,EC-Electronics & Communication Engineering,107183
+E211,"East West College of Engineering-Yelahanka, Bengaluru",GM,Bengaluru,EC-Electronics & Communication Engineering,106946
+E212,"Seshadripuram Institute of Technology - Jaipura Hobli, Mysuru",GM,Mysuru,EC-Electronics & Communication Engineering,78694
+E214,"Sri Siddhartha School of Engineering-Near Kyathsandra Toll Gate, Tumkur",GM,Tumkur,EC-Electronics & Communication Engineering,101837
+E217,"Harsha Institute of Technology-Nelamangala Taluk, Bangalore Rural",GM,Bangalore Rural,EC-Electronics & Communication Engineering,82772
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bengaluru,ECE-Electrical & Computer Engineering,41224
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,54926
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bengaluru,EE-Electrical & Electronics Engineering,107783
+E004,"Adichunchanagiri Institute Of Technology-Jyothi Nagara, Chikkamagaluru",GM,Chikkamagaluru,EE-Electrical & Electronics Engineering,108350
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,108308
+E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,33940
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",GM,Hubballi,EE-Electrical & Electronics Engineering,63193
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",KKR,Hubballi,EE-Electrical & Electronics Engineering,107292
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,17595
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,EE-Electrical & Electronics Engineering,74549
+E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Davangere,EE-Electrical & Electronics Engineering,106255
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,16383
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",KKR,Bengaluru,EE-Electrical & Electronics Engineering,49381
+E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,90403
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,11043
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,EE-Electrical & Electronics Engineering,52550
+E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,107250
+E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,108618
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,104274
+E059,"Jawaharlal Nehru New College of Engineering JNNCE-Swalanga Road, Shivamogga",GM,Shivamogga,EE-Electrical & Electronics Engineering,108163
+E062,"Jain College of Engineering-T.S Nagar, Belagavi",GM,Belagavi,EE-Electrical & Electronics Engineering,47110
+E065,"KLE Technological University Formerly called as KLE Dr. M.S. Sheshgiri College of Engineering and Technology-Udyambag, Belagavi",GM,Belagavi,EE-Electrical & Electronics Engineering,80612
+E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Belagavi,EE-Electrical & Electronics Engineering,76348
+E074,"KLS Vishwanathrao Deshpande Institute of Technology-Dandeli Road, Haliyal",GM,Haliyal,EE-Electrical & Electronics Engineering,93737
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,4203
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,EE-Electrical & Electronics Engineering,23744
+E089,"P.E.S.College of Engineering-PES College Road, Mandya",GM,Mandya,EE-Electrical & Electronics Engineering,8877
+E090,"PES Institute of Technology and Management-Kotegangoor Cost, Shivamogga",GM,Shivamogga,EE-Electrical & Electronics Engineering,92790
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,1379
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,EE-Electrical & Electronics Engineering,16389
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,30288
+E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,90006
+E116,"Sapthagiri NPS University-Hesarghatta Main Road, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,78438
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",GM,Dharwad,EE-Electrical & Electronics Engineering,87002
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,34859
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bengaluru,EE-Electrical & Electronics Engineering,77624
+E142,"The National Institute of Engineering South Campus-Mananthavady Road, Mysuru",GM,Mysuru,EE-Electrical & Electronics Engineering,18008
+E142,"The National Institute of Engineering South Campus-Mananthavady Road, Mysuru",KKR,Mysuru,EE-Electrical & Electronics Engineering,81158
+E147,"Vidyavardhaka College of Engineering-Gokulam, Mysuru",GM,Mysuru,EE-Electrical & Electronics Engineering,71028
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,74477
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",KKR,Bengaluru,EE-Electrical & Electronics Engineering,96249
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,EE-Electrical & Electronics Engineering,84318
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,EI-Electronics & Instrumentation Engineering,20304
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,EI-Electronics & Instrumentation Engineering,57675
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bengaluru,EI-Electronics & Instrumentation Engineering,42981
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,EI-Electronics & Instrumentation Engineering,4402
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,EI-Electronics & Instrumentation Engineering,28905
+E097,"R.R. Institute of Technology-Chikkabanavara, Bengaluru",GM,Bengaluru,ES-Electronics & Computer Science,108689
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,ET-Electronics & Telecommunication Engineering,16394
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,ET-Electronics & Telecommunication Engineering,78883
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,ET-Electronics & Telecommunication Engineering,10943
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,ET-Electronics & Telecommunication Engineering,38041
+E059,"Jawaharlal Nehru New College of Engineering JNNCE-Swalanga Road, Shivamogga",GM,Shivamogga,ET-Electronics & Telecommunication Engineering,63912
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,ET-Electronics & Telecommunication Engineering,3647
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,ET-Electronics & Telecommunication Engineering,23863
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,ET-Electronics & Telecommunication Engineering,1155
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,ET-Electronics & Telecommunication Engineering,5090
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,ET-Electronics & Telecommunication Engineering,29412
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,IAR-Information Technology (Augmented Reality and Virtual Reality (AR / VR)),54573
+E006,"Alvas Institute of Engineering and Technology-Moodbidri, Mangaluru",GM,Mangaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),105112
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),9086
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),28677
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),2647
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),12403
+E030,"Brindavan College of Engineering-Yelahanka, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),91015
+E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),39396
+E037,"City Engineering College-Doddakalasandra, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),65072
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),25279
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",KKR,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),63566
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),4699
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),25534
+E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),105817
+E046,"East Point College of Engineering and Technology-Avalahalli, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),90819
+E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),49806
+E068,"K.S. Institute of Technology-Kanakapura Main Road, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),102605
+E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Mandya,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),97937
+E084,"Nagarjuna College of Engineering And Technology-Devanahalli, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),76762
+E099,"Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),100037
+E101,"Rajiv Gandhi Institute of Technology-R T Nagar Post, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),35839
+E121,"Sri Sairam College of Engineering-Anekal, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),99579
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),16069
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),70698
+E164,"Reva University-Yelahanka, Bengaluru",GM,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),22463
+E164,"Reva University-Yelahanka, Bengaluru",KKR,Bengaluru,IC-Computer Science & Engineering (IOT & Cyber Security Including Block Chain Technology),100736
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,IDA-Information Technology (Data Analytics),42469
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,IM-Industrial Engineering & Management,17912
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,IM-Industrial Engineering & Management,76609
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,IM-Industrial Engineering & Management,8223
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,IM-Industrial Engineering & Management,49268
+E049,"Garden City University-Old Madras Road, Bengaluru",GM,Bengaluru,INT-Information Technology,80653
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,INT-Information Technology,33036
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",KKR,Bengaluru,INT-Information Technology,90885
+E187,"CMR University-Bagalur-Chagalatti, Bengaluru",GM,Bengaluru,INT-Information Technology,39479
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,41490
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,87959
+E004,"Adichunchanagiri Institute Of Technology-Jyothi Nagara, Chikkamagaluru",GM,Chikkamagaluru,IS-Information Science & Engineering,106976
+E005,"Akash Institute of Engineering and Technology-Devanahalli, Bengaluru Rural",GM,Bengaluru Rural,IS-Information Science & Engineering,97311
+E011,"APS College of Engineering-Kanakapura Road, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,101024
+E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,84420
+E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,19430
+E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,52860
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,10693
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,34584
+E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,102442
+E021,"Bapuji Institute of Engineering and Technology-Shamanur Road, Davangere",GM,Davangere,IS-Information Science & Engineering,111716
+E024,"Basaveshwar Engineering College-Vidya Nagar, Bagalkote",GM,Bagalkote,IS-Information Science & Engineering,108363
+E026,"BLDEAs V.P. Dr.P.G.Halakatti College of Engineering and Technology-Ashram Road, Vijayapura",GM,Vijayapura,IS-Information Science & Engineering,105816
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,20349
+E032,"C.M.R. Institute of Technology-Brookefield, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,66421
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,29142
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,66538
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,5390
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,19777
+E041,"DON BOSCO Institute of Technology-Kumbalgodu, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,109945
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,33868
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,72787
+E045,"Dr H N National College Of Engineering-Jayanagar, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,83887
+E046,"East Point College of Engineering and Technology-Avalahalli, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,73270
+E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,110647
+E049,"Garden City University-Old Madras Road, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,106433
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,63167
+E053,"Gopalan College of Engineering And Management-Whitefield, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,110929
+E055,"GSSS Institute of Engineering and Technology for Women-Metagalli, Mysuru",GM,Mysuru,IS-Information Science & Engineering,49264
+E059,"Jawaharlal Nehru New College of Engineering JNNCE-Swalanga Road, Shivamogga",GM,Shivamogga,IS-Information Science & Engineering,103403
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,29271
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,83801
+E061,JSS Science and Technology University-Mysuru,GM,,IS-Information Science & Engineering,14383
+E061,JSS Science and Technology University-Mysuru,KKR,,IS-Information Science & Engineering,31564
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,1916
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,9487
+E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Mandya,IS-Information Science & Engineering,96431
+E080,"Mangalore Institute of Technology and Engineering-Moodbidri, Mangaluru",GM,Mangaluru,IS-Information Science & Engineering,60075
+E089,"P.E.S.College of Engineering-PES College Road, Mandya",GM,Mandya,IS-Information Science & Engineering,18241
+E090,"PES Institute of Technology and Management-Kotegangoor Cost, Shivamogga",GM,Shivamogga,IS-Information Science & Engineering,58047
+E097,"R.R. Institute of Technology-Chikkabanavara, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,70156
+E099,"Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,111599
+E101,"Rajiv Gandhi Institute of Technology-R T Nagar Post, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,82104
+E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,44389
+E107,"SJB Institute of Technology-Kengeri, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,91435
+E108,"S J C Institute of Technology-BB Road, Chikkaballapur",GM,Chikkaballapur,IS-Information Science & Engineering,98759
+E112,"Sahyadri College of Engineering and Management-Adyar, Mangaluru",GM,Mangaluru,IS-Information Science & Engineering,102881
+E113,"Sai Vidya Institute of Technology-Rajan Kunte, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,73656
+E114,"Sambhram Institute of Technology-Jalahalli East, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,70390
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",GM,Dharwad,IS-Information Science & Engineering,46296
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",KKR,Dharwad,IS-Information Science & Engineering,74251
+E118,"SDM Institute of Technology, Tulu Minority-Ujjire, Dakshina Kannada",GM,Dakshina Kannada,IS-Information Science & Engineering,56991
+E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",GM,Tumakuru,IS-Information Science & Engineering,12840
+E125,"Siddaganga Institute of Technology-B H Road, Tumakuru",KKR,Tumakuru,IS-Information Science & Engineering,32955
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,18032
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,69644
+E137,"Sri Venkateshwara College of Engineering-KIAL Road, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,109058
+E141,"T. John Institute of Technology-Bannerghatta Road, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,109829
+E145,"Vemana Institute of Technology-Koramangala, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,63971
+E146,"Vidya Vikas Institute of Engineering and Technology-Alnahally, Mysuru",GM,Mysuru,IS-Information Science & Engineering,86253
+E156,"Jyothy Institute of Technology-Tathguni, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,75337
+E164,"Reva University-Yelahanka, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,29352
+E164,"Reva University-Yelahanka, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,85319
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,41690
+E173,"Presidency University-Yelahanka, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,74729
+E197,"M.S. Ramaiah University of Applied Sciences-MSR Nagar, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,13101
+E197,"M.S. Ramaiah University of Applied Sciences-MSR Nagar, Bengaluru",KKR,Bengaluru,IS-Information Science & Engineering,70640
+E203,"Amruta Institute of Engineering and Management Science-Bidadi, Ramnagar Taluk, Bengaluru Rural",GM,Bengaluru Rural,IS-Information Science & Engineering,95332
+E207,"BGS College of Engineering and Technology-Mahalaxmipuram, Bengaluru",GM,Bengaluru,IS-Information Science & Engineering,72926
+E212,"Seshadripuram Institute of Technology - Jaipura Hobli, Mysuru",GM,Mysuru,IS-Information Science & Engineering,80032
+E217,"Harsha Institute of Technology-Nelamangala Taluk, Bangalore Rural",GM,Bangalore Rural,IS-Information Science & Engineering,108273
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,IST-Information Science & Technology,47078
+E036,"Chanakya University-Devanahalli, Bengaluru Rural",GM,Bengaluru Rural,MAE-MECHANICAL & AEROSPACE ENGINEERING,59140
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,MD-Medical Electronics Engineering,30157
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,MD-Medical Electronics Engineering,20538
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,MD-Medical Electronics Engineering,48686
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,62773
+E004,"Adichunchanagiri Institute Of Technology-Jyothi Nagara, Chikkamagaluru",GM,Chikkamagaluru,ME-Mechanical Engineering,105957
+E007,"AMC Engineering College-Bannerghatta Rd, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,103137
+E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,97836
+E015,"B.N.M. Institute of Technology-Banashankari, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,50635
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",GM,Hubballi,ME-Mechanical Engineering,93520
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,33330
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,ME-Mechanical Engineering,108484
+E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,91241
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,8472
+E027,"BMS College of Engineering-Basavanagudi, Bengaluru",KKR,Bengaluru,ME-Mechanical Engineering,61598
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,27669
+E028,"BMS Institute of Technology and Management-Yelahanka, Bengaluru",KKR,Bengaluru,ME-Mechanical Engineering,87404
+E030,"Brindavan College of Engineering-Yelahanka, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,32957
+E033,"Cambridge Institute of Technology-K R Puram, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,103564
+E037,"City Engineering College-Doddakalasandra, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,99390
+E038,"Coorg Institute of Technology-Ponnampet, South Kodagu",GM,South Kodagu,ME-Mechanical Engineering,82980
+E039,"Dayananda Sagar Academy of Technology and Management-Kanakpura Road, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,40017
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,24105
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,ME-Mechanical Engineering,91711
+E050,"Global Academy of Technology-Rajarajeshwari Nagar, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,80915
+E059,"Jawaharlal Nehru New College of Engineering JNNCE-Swalanga Road, Shivamogga",GM,Shivamogga,ME-Mechanical Engineering,82197
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,57301
+E061,JSS Science and Technology University-Mysuru,GM,,ME-Mechanical Engineering,34332
+E062,"Jain College of Engineering-T.S Nagar, Belagavi",GM,Belagavi,ME-Mechanical Engineering,74817
+E064,"Jain College of Engineering and Research-Udyambag, Belagavi",GM,Belagavi,ME-Mechanical Engineering,104194
+E065,"KLE Technological University Formerly called as KLE Dr. M.S. Sheshgiri College of Engineering and Technology-Udyambag, Belagavi",GM,Belagavi,ME-Mechanical Engineering,90911
+E068,"K.S. Institute of Technology-Kanakapura Main Road, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,54108
+E073,"KLS Gogte Institute of Technology-Udyambag, Belagavi",GM,Belagavi,ME-Mechanical Engineering,77705
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,8371
+E077,"M.S. Ramaiah Institute of Technology-MSR Nagar, Bengaluru",KKR,Bengaluru,ME-Mechanical Engineering,80766
+E078,"Maharaja Institute of Technology-Belawadi, Mandya",GM,Mandya,ME-Mechanical Engineering,88099
+E080,"Mangalore Institute of Technology and Engineering-Moodbidri, Mangaluru",GM,Mangaluru,ME-Mechanical Engineering,59124
+E090,"PES Institute of Technology and Management-Kotegangoor Cost, Shivamogga",GM,Shivamogga,ME-Mechanical Engineering,99493
+E095,"R V College of Engineering-Mysore Road, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,4197
+E095,"R V College of Engineering-Mysore Road, Bengaluru",KKR,Bengaluru,ME-Mechanical Engineering,36968
+E101,"Rajiv Gandhi Institute of Technology-R T Nagar Post, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,81145
+E104,"RNS Institute of Technology-R R Nagar Post, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,38430
+E107,"SJB Institute of Technology-Kengeri, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,109728
+E108,"S J C Institute of Technology-BB Road, Chikkaballapur",GM,Chikkaballapur,ME-Mechanical Engineering,52438
+E112,"Sahyadri College of Engineering and Management-Adyar, Mangaluru",GM,Mangaluru,ME-Mechanical Engineering,97734
+E113,"Sai Vidya Institute of Technology-Rajan Kunte, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,83745
+E117,"SDM College of Engineering and Technology, Tulu Minority-Kalaghatagi, Dharwad",GM,Dharwad,ME-Mechanical Engineering,109315
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,41194
+E142,"The National Institute of Engineering South Campus-Mananthavady Road, Mysuru",GM,Mysuru,ME-Mechanical Engineering,23989
+E145,"Vemana Institute of Technology-Koramangala, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,110985
+E147,"Vidyavardhaka College of Engineering-Gokulam, Mysuru",GM,Mysuru,ME-Mechanical Engineering,77574
+E161,"Cambridge Institute of Technology North Campus-Kundana, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,83118
+E165,"Alliance College of Engineering and Design. Alliance University-Anekal, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,96855
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,107616
+E172,"Mysore College of Engineering and Management-Chikkahalli, Mysuru",GM,Mysuru,ME-Mechanical Engineering,95240
+E203,"Amruta Institute of Engineering and Management Science-Bidadi, Ramnagar Taluk, Bengaluru Rural",GM,Bengaluru Rural,ME-Mechanical Engineering,72116
+E211,"East West College of Engineering-Yelahanka, Bengaluru",GM,Bengaluru,ME-Mechanical Engineering,91212
+E212,"Seshadripuram Institute of Technology - Jaipura Hobli, Mysuru",GM,Mysuru,ME-Mechanical Engineering,73610
+E138,"Srinivas Institute of Technology-Hampankatta, Mangaluru",GM,Mangaluru,MR-Marine Engineering,34643
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bengaluru,MT-Mechatronics Engineering,81092
+E080,"Mangalore Institute of Technology and Engineering-Moodbidri, Mangaluru",GM,Mangaluru,MT-Mechatronics Engineering,66653
+E012,"Atria Institute of Technology-Hebbal, Bengaluru",GM,Bengaluru,RA-Robotics & Automation,104693
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",GM,Bengaluru,RA-Robotics & Automation,31145
+E060,"JSS Academy of Technical Education-Kengeri Main Road, Bengaluru",KKR,Bengaluru,RA-Robotics & Automation,94171
+E099,"Raja Rajeswari College of Engineering-Kumbalgodu, Bengaluru",GM,Bengaluru,RA-Robotics & Automation,85937
+E112,"Sahyadri College of Engineering and Management-Adyar, Mangaluru",GM,Mangaluru,RA-Robotics & Automation,109219
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",GM,Bengaluru,RI-Robotics & Artificial Intelligence,42895
+E001,"Acharya Institute of Technology-Soladevanahalli, Bengaluru",KKR,Bengaluru,RI-Robotics & Artificial Intelligence,101252
+E004,"Adichunchanagiri Institute Of Technology-Jyothi Nagara, Chikkamagaluru",GM,Chikkamagaluru,RI-Robotics & Artificial Intelligence,106625
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,RI-Robotics & Artificial Intelligence,11776
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,RI-Robotics & Artificial Intelligence,36524
+E020,"Bangalore Technological Institute-Chikkanayakanahalli Dinne, Bengaluru",GM,Bengaluru,RI-Robotics & Artificial Intelligence,104954
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",GM,Bengaluru,RI-Robotics & Artificial Intelligence,6123
+E040,"Dayananda Sagar College of Engineering-Kumaraswamy Layout, Bengaluru",KKR,Bengaluru,RI-Robotics & Artificial Intelligence,26803
+E059,"Jawaharlal Nehru New College of Engineering JNNCE-Swalanga Road, Shivamogga",GM,Shivamogga,RI-Robotics & Artificial Intelligence,110685
+E079,"Malnad College of Engineering-Rangoli Halla, Hassan",GM,Hassan,RI-Robotics & Artificial Intelligence,80603
+E080,"Mangalore Institute of Technology and Engineering-Moodbidri, Mangaluru",GM,Mangaluru,RI-Robotics & Artificial Intelligence,82338
+E089,"P.E.S.College of Engineering-PES College Road, Mandya",GM,Mandya,RI-Robotics & Artificial Intelligence,16377
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,RI-Robotics & Artificial Intelligence,19174
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",KKR,Bengaluru,RI-Robotics & Artificial Intelligence,81180
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bengaluru,RI-Robotics & Artificial Intelligence,16695
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",KKR,Bengaluru,RI-Robotics & Artificial Intelligence,66293
+E024,"Basaveshwar Engineering College-Vidya Nagar, Bagalkote",GM,Bagalkote,UE-Electronics & Computer Engineering,101580
+E048,"East West Institute of Technology-BEL Layout, Bengaluru",GM,Bengaluru,UE-Electronics & Computer Engineering,71964
+E126,"Sir M.Visvesvaraya Institute of Technology-Yelahanka, Bengaluru",GM,Bengaluru,UE-Electronics & Computer Engineering,25368
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",GM,Bengaluru,VL-Electronics Engineering (VLSI Design & Technology),40936
+E042,"Dr. Ambedkar Institute of Technology-Malathahalli, Bengaluru",KKR,Bengaluru,VL-Electronics Engineering (VLSI Design & Technology),82849
+E089,"P.E.S.College of Engineering-PES College Road, Mandya",GM,Mandya,VL-Electronics Engineering (VLSI Design & Technology),12982
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",GM,Bengaluru,VL-Electronics Engineering (VLSI Design & Technology),16578
+E019,"Bangalore Institute of Technology-V V Puram, Bengaluru",KKR,Bengaluru,VL-Electronics Engineering (VLSI Design & Technology),43337
+E036,"Chanakya University-Devanahalli, Bengaluru Rural",GM,Bengaluru Rural,VL-Electronics Engineering (VLSI Design & Technology),106627
+E079,"Malnad College of Engineering-Rangoli Halla, Hassan",GM,Hassan,VL-Electronics Engineering (VLSI Design & Technology),73754
+E171,"GITAM Deemed to be University-Dodaballapur taluk, Bengaluru",GM,Bengaluru,VL-Electronics Engineering (VLSI Design & Technology),34414
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",GM,Hubballi,VLS-VLSI,41820
+E016,"KLE Technological University Formerly known as BVBCET-Vidyanagar, Hubballi",KKR,Hubballi,VLS-VLSI,103167
+E173,"Presidency University-Yelahanka, Bengaluru",GM,Bengaluru,VLS-VLSI,65786
