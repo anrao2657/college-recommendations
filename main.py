@@ -201,6 +201,15 @@ with tab2:
         st.markdown(f"<div style='background-color:#f0f2f6; color:#000000; padding:8px; border-radius:4px;'>{record_count_rec_msg}</div>", unsafe_allow_html=True)
         st.dataframe(rec_df_display, use_container_width=True)
 
+        # CSV download button for recommendations
+        csv_rec = recommendation_df[default_columns].reset_index(drop=True).to_csv(index=False).encode('utf-8')
+        st.download_button(
+            label="💾 Download Recommendations as CSV",
+            data=csv_rec,
+            file_name='recommendations_cutoffs.csv',
+            mime='text/csv'
+        )
+
     else:
         st.warning("⚠️ No recommendations found. Please adjust filters or rank value.")
 
