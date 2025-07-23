@@ -30,7 +30,7 @@ venv.bak/
 .env
 
 # CSV outputs or data files (if generated locally)
-*.csv
+#*.csv
 
 # PDFs or raw data files (optional, if large)
 *.pdf

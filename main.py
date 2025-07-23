@@ -151,53 +151,18 @@ with tab1:
     filtered_df = filter_dataframe(df)
 
     if not filtered_df.empty:
-        # Order by College Rank before pagination
+        # Order by College Rank before display
         ordered_df = filtered_df.sort_values(by=["College Rank", "closing_rank"])
+        ordered_df_display = ordered_df[default_columns].reset_index(drop=True)
+        ordered_df_display.insert(0, "S.No", ordered_df_display.index + 1)
+        ordered_df_display = ordered_df_display.set_index("S.No")
+        ordered_df_display = ordered_df_display.rename(columns={"closing_rank": "Closing Rank", "branch": "Branch"})
 
-        # Pagination setup
-        items_per_page = 10
-        total_pages = (len(ordered_df) - 1) // items_per_page + 1
-        page_number = st.session_state.get("page_number_tab1", 1)
-
-        start_idx = (page_number - 1) * items_per_page
-        end_idx = start_idx + items_per_page
-        paginated_df = ordered_df.iloc[start_idx:end_idx]
-
-        paginated_df_display = paginated_df[default_columns].reset_index(drop=True)
-        paginated_df_display.insert(0, "S.No", paginated_df_display.index + 1 + start_idx)
-        paginated_df_display = paginated_df_display.set_index("S.No")
-
-        # Rename columns for display clarity
-        paginated_df_display = paginated_df_display.rename(columns={
-            "closing_rank": "Closing Rank",
-            "branch": "Branch"
-        })
-
-        st.write(f"Showing {len(paginated_df_display)} records out of {len(filtered_df)} total. (Page {page_number} of {total_pages})")
-
-        st.dataframe(paginated_df_display, use_container_width=True)
-
-        next_clicked_bottom = False  # Initialize
-
-        # Compact Next/Prev buttons
-        col1, col2, col3 = st.columns([2,1,2])
-        with col1:
-            if page_number > 1:
-                prev_clicked_bottom = st.button("⬅️ Prev", key="prev_tab1")
-            else:
-                st.markdown("")  # Empty placeholder to maintain layout
-        with col3:
-            if total_pages > 1 and page_number < total_pages:
-                next_clicked_bottom = st.button("Next ➡️", key="next_tab1")
-            else:
-                st.markdown("")  # Empty placeholder to maintain layout
-
-        if 'prev_clicked_bottom' in locals() and prev_clicked_bottom and page_number > 1:
-            page_number -= 1
-        if next_clicked_bottom and page_number < total_pages:
-            page_number += 1
-
-        st.session_state["page_number_tab1"] = page_number
+        record_count_msg = f"Showing {len(ordered_df_display)} records."
+        if len(ordered_df_display) > 10:
+            record_count_msg += " Scroll to see full results."
+        st.markdown(f"<div style='background-color:#f0f2f6; color:#000000; padding:8px; border-radius:4px;'>{record_count_msg}</div>", unsafe_allow_html=True)
+        st.dataframe(ordered_df_display, use_container_width=True)
 
         csv = filtered_df[default_columns].reset_index(drop=True).to_csv(index=False).encode('utf-8')
         st.download_button(
@@ -223,53 +188,18 @@ with tab2:
     if not recommendation_df.empty:
         st.markdown(f"✅ Showing recommendations for rank **{entered_rank}** in category **'{selected_category}'**.")
 
-        # Order by College Rank before pagination
+        # Order by College Rank before display
         ordered_rec_df = recommendation_df.sort_values(by=["College Rank", "closing_rank"])
+        rec_df_display = ordered_rec_df[default_columns].reset_index(drop=True)
+        rec_df_display.insert(0, "S.No", rec_df_display.index + 1)
+        rec_df_display = rec_df_display.set_index("S.No")
+        rec_df_display = rec_df_display.rename(columns={"closing_rank": "Closing Rank", "branch": "Branch"})
 
-        # Pagination setup
-        items_per_page_rec = 10
-        total_pages_rec = (len(ordered_rec_df) - 1) // items_per_page_rec + 1
-        page_number_rec = st.session_state.get("rec_page_number", 1)
-
-        start_idx_rec = (page_number_rec - 1) * items_per_page_rec
-        end_idx_rec = start_idx_rec + items_per_page_rec
-        paginated_rec_df = ordered_rec_df.iloc[start_idx_rec:end_idx_rec]
-
-        recommendation_df_display = paginated_rec_df[default_columns].reset_index(drop=True)
-        recommendation_df_display.insert(0, "S.No", recommendation_df_display.index + 1 + start_idx_rec)
-        recommendation_df_display = recommendation_df_display.set_index("S.No")
-
-        # Rename columns for display clarity
-        recommendation_df_display = recommendation_df_display.rename(columns={
-            "closing_rank": "Closing Rank",
-            "branch": "Branch"
-        })
-
-        st.markdown(f"Showing {len(paginated_rec_df)} records out of {len(recommendation_df)} total. (Page {page_number_rec} of {total_pages_rec})")
-
-        st.dataframe(recommendation_df_display, use_container_width=True)
-
-        next_clicked_bottom_rec = False  # Initialize to avoid NameError
-
-        # Compact Next/Prev buttons
-        col1_rec, col2_rec, col3_rec = st.columns([2,1,2])
-        with col1_rec:
-            if page_number_rec > 1:
-                prev_clicked_bottom_rec = st.button("⬅️ Prev", key="prev_tab2")
-            else:
-                st.markdown("")  # Empty placeholder to maintain layout
-        with col3_rec:
-            if total_pages_rec > 1 and page_number_rec < total_pages_rec:
-                next_clicked_bottom_rec = st.button("Next ➡️", key="next_tab2")
-            else:
-                st.markdown("")  # Empty placeholder to maintain layout
-
-        if 'prev_clicked_bottom_rec' in locals() and prev_clicked_bottom_rec and page_number_rec > 1:
-            page_number_rec -= 1
-        if next_clicked_bottom_rec and page_number_rec < total_pages_rec:
-            page_number_rec += 1
-
-        st.session_state["rec_page_number"] = page_number_rec
+        record_count_rec_msg = f"Showing {len(rec_df_display)} records out of {len(recommendation_df)} total."
+        if len(rec_df_display) > 10:
+            record_count_rec_msg += " Scroll to see full results."
+        st.markdown(f"<div style='background-color:#f0f2f6; color:#000000; padding:8px; border-radius:4px;'>{record_count_rec_msg}</div>", unsafe_allow_html=True)
+        st.dataframe(rec_df_display, use_container_width=True)
 
     else:
         st.warning("⚠️ No recommendations found. Please adjust filters or rank value.")
