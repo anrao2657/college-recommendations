@@ -3,7 +3,7 @@ import pandas as pd
 
 # === Page Configuration ===
 st.set_page_config(
-    page_title="COMEDK Cutoff Viewer",
+    page_title="COMEDK Mock Round 2025 Cutoff Viewer",
     page_icon="🎓",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -38,15 +38,15 @@ div[data-testid="stTabs"] button {
 """, unsafe_allow_html=True)
 
 # === Title ===
-st.markdown("<h3>🎓 COMEDK Branch Cutoff Viewer</h3>", unsafe_allow_html=True)
-st.markdown("_Data source: 2024 Engineering cut-off after all rounds. Notified on 17.07.2025._")
+st.markdown("<h3>🎓 COMEDK Mock Round 2025 Cutoff Viewer</h3>", unsafe_allow_html=True)
+st.markdown("_Data source: Engineering - Cut-off Ranks Mock Round Allotment Notified on 22.07.2025")
 
 
 
 # === Load Data with Cache ===
 @st.cache_data
 def load_data():
-    return pd.read_csv("comedk_cutoffs_normalized.csv")
+    return pd.read_csv("mock_normalized_2025.csv")
 
 with st.spinner("Loading data..."):
     df = load_data()
