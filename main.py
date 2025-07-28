@@ -46,7 +46,7 @@ st.markdown("_Data source: Engineering - Cut-off Ranks Mock Round Allotment Noti
 # === Load Data with Cache ===
 @st.cache_data
 def load_data():
-    return pd.read_csv("mock_normalized_2025.csv")
+    return pd.read_csv("comedk_cutoffs_normalized.csv")
 
 with st.spinner("Loading data..."):
     df = load_data()
