@@ -38,8 +38,8 @@ div[data-testid="stTabs"] button {
 """, unsafe_allow_html=True)
 
 # === Title ===
-st.markdown("<h3>🎓 COMEDK Mock Round 2025 Cutoff Viewer</h3>", unsafe_allow_html=True)
-st.markdown("_Data source: Engineering - Cut-off Ranks Mock Round Allotment Notified on 22.07.2025")
+st.markdown("<h3>🎓 COMEDK  Round-1 2025 Cutoff Viewer</h3>", unsafe_allow_html=True)
+st.markdown("_Data source: Engineering - Cut-off Ranks Round -1 Allotment Notified on 28.07.2025")
 
 
 
