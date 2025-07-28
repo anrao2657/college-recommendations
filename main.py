@@ -3,7 +3,7 @@ import pandas as pd
 
 # === Page Configuration ===
 st.set_page_config(
-    page_title="COMEDK Mock Round 2025 Cutoff Viewer",
+    page_title="COMEDK Round -1 2025 Cutoff Viewer",
     page_icon="🎓",
     layout="wide",
     initial_sidebar_state="expanded"
