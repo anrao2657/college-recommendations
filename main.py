@@ -25,6 +25,16 @@ div[data-testid="stDataFrame"] div[role="grid"] {
     font-size: 12px;
     border: 1px solid #444;
     border-radius: 4px;
+    width: 100%;
+}
+div[data-testid="stDataFrame"] table {
+    table-layout: auto !important;
+    width: 100% !important;
+}
+div[data-testid="stDataFrame"] th, 
+div[data-testid="stDataFrame"] td {
+    white-space: normal !important;
+    word-break: break-word;
 }
 div[data-testid="stDataFrame"] div[role="gridcell"] {
     white-space: normal !important;
@@ -33,6 +43,14 @@ div[data-testid="stDataFrame"] div[role="gridcell"] {
 /* Adjust tab font size */
 div[data-testid="stTabs"] button {
     font-size: 12px;
+}
+div[data-testid="stDataFrame"] th:nth-child(4),
+div[data-testid="stDataFrame"] td:nth-child(4) {
+    max-width: 120px;
+    width: 120px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    white-space: normal;
 }
 </style>
 """, unsafe_allow_html=True)
