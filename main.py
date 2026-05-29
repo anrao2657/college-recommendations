@@ -60,6 +60,16 @@ st.markdown("<h3>🎓 COMEDK  2025 Round 4 Cutoff Viewer (This app updated on 29
 st.markdown("Data source: Engineering Cut-off Ranks after Round 4 Allotment. Notified on 05.09.2025 (https://www.comedk.org/uploads/Engineering-Cut-Off-Rank-after.pdf)")
 
 
+st.link_button(
+
+    "🔔 Subscribe to my YouTube channel if you find this helpful. Updates after every round.",
+
+    "https://www.youtube.com/@diwakar2657?sub_confirmation=1",
+
+    use_container_width=True
+
+)
+
 
 # === Load Data with Cache ===
 @st.cache_data
