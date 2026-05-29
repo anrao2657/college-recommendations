@@ -56,8 +56,8 @@ div[data-testid="stDataFrame"] td:nth-child(4) {
 """, unsafe_allow_html=True)
 
 # === Title ===
-st.markdown("<h3>🎓 COMEDK  Round-1 2025 Cutoff Viewer</h3>", unsafe_allow_html=True)
-st.markdown("_Data source: Engineering - Cut-off Ranks Round -1 Allotment Notified on 28.07.2025")
+st.markdown("<h3>🎓 COMEDK  2025 Round 4 Cutoff Viewer (This app updated on 29-May-2026)</h3>", unsafe_allow_html=True)
+st.markdown("Data source: Engineering Cut-off Ranks after Round 4 Allotment. Notified on 05.09.2025 (https://www.comedk.org/uploads/Engineering-Cut-Off-Rank-after.pdf)")
 
 
 
@@ -76,7 +76,7 @@ df = df.merge(college_min_rank[["College Code", "College Rank"]], on="College Co
 
 # === Sidebar Filters ===
 with st.sidebar.expander("🔧 Filters", expanded=True):
-    college_input = st.text_input("🏫 College Name or Code", "").strip().lower()
+    college_input = st.text_input("🏫 College Name or Code (e.g. c.m.r)", "").strip().lower()
 
     category_options = sorted(df['Seat Category'].dropna().unique())
     selected_category = st.selectbox("🎯 Seat Category", category_options)
