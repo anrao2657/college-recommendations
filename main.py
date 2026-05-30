@@ -245,7 +245,6 @@ with tab2:
 st.markdown("---")
 st.markdown("""
 ## ⚠️ Disclaimer
-
 This app is **not an official counselling tool**.  
 It has been developed solely to assist students in analysing publicly available data efficiently.  
 Always refer to **official counselling portals and authorities** for final decisions.
